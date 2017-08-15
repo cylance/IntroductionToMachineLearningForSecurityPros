@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+  <head>
+    <title>ID Panel</title>
+    <style>
+        @font-face {
+            font-family: 'Electrolize-Regular'; /*a name to be used later*/
+            src: url('fonts/Electrolize/Electrolize-Regular.ttf'); /*URL to font*/
+        }
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #1D242C;
+            border-radius: 6px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            border-radius: 6px;
+            background: #B8E986;
+        }
+
+        ::-webkit-scrollbar-corner {
+            background: rgba(0,0,0,0);
+        }
+      body {
+        font-family: Electrolize-Regular;
+        font-size: 100%;
+          margin:0px !important;
+          padding-left: 17px;
+          padding-top: 0px;
+          padding-right: 0px;
+          padding-bottom: 0px;
+          border-radius: 5px;
+          border-color: #fff;
+          height: 430px;
+          width: 460px;
+          background-image: url("images/bg image full_2x.png");
+      }
+        #header {
+            padding-top: 15px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-bottom: 12px;
+            width: 100%;
+            line-height: 19px;
+            color: #fff;
+            font-size: 23pt;
+        }
+        #panel_list {
+            height: 100%;
+            position: relative;
+            border: 0;
+            margin: 0;
+            background-color: rgba(114, 157, 208, .10);
+            overflow: scroll;
+            padding-right: 6px;
+            padding-bottom: 6px;
+            font-size: 12pt;
+            color: #fff;
+        }
+
+        .panel_item {
+            font-size: 12pt;
+            color: #fff;
+            margin: 0;
+            padding-left: 12px;
+            padding-top: 12px;
+            padding-bottom: 0px;
+            color: #B8E986;
+        }
+
+        .panel_subitem {
+            color: #fff;
+            padding-left: 20px;
+            padding-top: 6px;
+            font-size: 10pt;
+        }
+
+        #buttons {
+            height: 24px;
+            margin: 0;
+            width: 100%;
+            border: 0;
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+
+        .button {
+            background-color: #B8E986;
+            font-size: 12pt;
+            width: 100px;
+            border: none;
+            color: white;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            text-align: center;
+            display: inline-block;
+            margin: 0;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: #7ED321;
+        }
+
+        #update-button {
+            display: inline;
+        }
+
+        #clear-button {
+            display: inline;
+        }
+    </style>
+
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <div id="header">ID Panel - Findings</div>
+    <div id="panel_list"></div>
+    <div id="buttons">
+        <span>
+            <button class="button" id="update-button">Update</button>
+            <button class="button" id="clear-button">Clear</button>
+        </span>
+    </div>
+  </body>
+</html>
+

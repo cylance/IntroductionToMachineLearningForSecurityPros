@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "ID Bot Panels",
+  "description": "This extension attempts to identify bot panels",
+  "version": "1.0",
+  "icons": { "16": "images/icons/Cylance__ID_Panel_icon_2x.png",
+             "48": "images/icons/Cylance__ID_Panel_icon_2x.png",
+            "128": "images/icons/Cylance__ID_Panel_icon_2x.png" },
+  "browser_action": {
+    "default_icon": "images/icons/Cylance__ID_Panel_icon_2x.png",
+    "default_popup": "popup.html"
+  },
+  "background":{
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "tabs",
+    "*://*/",
+    "notifications",
+    "storage"
+  ],
+  "web_accessible_resources": [
+    "resources/model.json"
+  ]
+}

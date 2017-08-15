@@ -1,0 +1,8 @@
+bitarray
+sklearn
+keras
+theano
+tensorflow
+numpy
+image
+h5py
