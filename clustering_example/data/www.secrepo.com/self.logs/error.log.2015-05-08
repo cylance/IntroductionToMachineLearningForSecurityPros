@@ -1,0 +1,25 @@
+[Fri May 08 02:24:57 2015] [error] [client 104.130.161.115] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Fri May 08 02:24:57 2015] [error] [client 167.114.199.81] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Fri May 08 02:25:38 2015] [error] [client 167.114.199.81] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Fri May 08 06:09:14 2015] [error] [client 104.130.161.114] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Fri May 08 08:17:12 2015] [error] [client 151.80.185.202] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Fri May 08 15:10:11 2015] [error] [client 27.154.132.136] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot%20-%20Howto.pdf#search='%2Fbbs%2Fbbs.cgi%3F+++locator'
+[Fri May 08 16:00:58 2015] [error] [client 109.173.108.105] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri May 08 17:33:06 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Fri May 08 17:33:08 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Fri May 08 17:33:08 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Fri May 08 17:33:09 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Fri May 08 17:33:10 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Fri May 08 17:33:12 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Fri May 08 17:33:12 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Fri May 08 17:33:13 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Fri May 08 17:33:14 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Fri May 08 17:33:15 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Fri May 08 17:33:16 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Fri May 08 17:33:17 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Fri May 08 19:14:21 2015] [error] [client 110.84.45.177] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot%20-%20Howto.pdf#search='%2Fbbs%2Fbbs.cgi%3F+++locator'
+[Fri May 08 23:15:25 2015] [error] [client 223.71.172.90] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Fri May 08 23:16:05 2015] [error] [client 223.71.172.90] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri May 08 23:19:13 2015] [error] [client 223.71.172.90] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri May 08 23:19:49 2015] [error] [client 223.71.172.90] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Fri May 08 23:24:13 2015] [error] [client 159.255.164.50] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/cgi-sys/entropysearch.cgi"] [unique_id "VU2oDdBxoAQAADce4acAAAAH"]

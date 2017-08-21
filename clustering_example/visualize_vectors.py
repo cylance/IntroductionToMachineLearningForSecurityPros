@@ -22,7 +22,7 @@ def visualize(vectors):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("-i", "--vectors", help="HDF5 file containing the vectors")
+    parser.add_argument("-i", "--vectors", required=True, help="HDF5 file containing the vectors")
     args = parser.parse_args()
     path = args.vectors
 

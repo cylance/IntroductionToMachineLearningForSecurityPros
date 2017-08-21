@@ -1,0 +1,21 @@
+[Sat May 21 03:18:39 2016] [error] [client 85.93.91.84] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Sat May 21 04:13:36 2016] [error] [client 5.149.254.109] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Sat May 21 07:03:17 2016] [error] [client 138.201.30.66] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat May 21 07:41:54 2016] [error] [client 100.16.51.153] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Sat May 21 11:36:17 2016] [error] [client 107.178.195.187] File does not exist: /home/sooshie/secrepo.com/g
+[Sat May 21 19:16:35 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/blog
+[Sat May 21 19:16:36 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/blog
+[Sat May 21 19:16:36 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Sat May 21 19:16:36 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/wp
+[Sat May 21 20:15:53 2016] [error] [client 5.9.63.149] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 21 20:15:55 2016] [error] [client 5.9.63.149] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 21 20:15:57 2016] [error] [client 5.9.63.149] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 21 20:16:00 2016] [error] [client 5.9.63.149] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat May 21 20:16:02 2016] [error] [client 5.9.63.149] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun May 22 00:08:25 2016] [error] [client 91.200.12.136] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun May 22 00:25:55 2016] [error] [client 91.200.12.136] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun May 22 00:30:15 2016] [error] [client 92.55.225.12] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png
+[Sun May 22 00:30:16 2016] [error] [client 92.55.225.12] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-72x72.png
+[Sun May 22 00:30:16 2016] [error] [client 92.55.225.12] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-114x114.png
+[Sun May 22 00:30:17 2016] [error] [client 92.55.225.12] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sun May 22 00:30:18 2016] [error] [client 92.55.225.12] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/administrator

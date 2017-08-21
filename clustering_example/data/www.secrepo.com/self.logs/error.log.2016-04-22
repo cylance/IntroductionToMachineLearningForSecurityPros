@@ -1,0 +1,20 @@
+[Fri Apr 22 05:01:04 2016] [error] [client 138.40.68.42] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri Apr 22 09:56:53 2016] [error] [client 128.8.120.4] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri Apr 22 10:08:01 2016] [error] [client 120.52.72.55] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Fri Apr 22 10:19:58 2016] [error] [client 206.196.186.154] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri Apr 22 10:20:52 2016] [error] [client 155.185.54.137] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Apr 22 10:20:59 2016] [error] [client 155.185.54.137] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Apr 22 10:21:07 2016] [error] [client 155.185.54.137] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Apr 22 10:21:54 2016] [error] [client 114.97.202.223] File does not exist: /home/sooshie/secrepo.com/ftp:
+[Fri Apr 22 12:00:30 2016] [error] [client 17.228.216.113] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Apr 22 12:00:30 2016] [error] [client 17.228.216.113] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Apr 22 12:00:30 2016] [error] [client 17.228.216.113] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Apr 22 12:00:30 2016] [error] [client 17.228.216.113] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Apr 22 14:22:11 2016] [error] [client 114.97.202.223] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Apr 22 17:21:02 2016] [error] [client 144.76.12.75] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri Apr 22 17:21:19 2016] [error] [client 144.76.12.75] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri Apr 22 17:21:33 2016] [error] [client 144.76.12.75] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri Apr 22 17:21:36 2016] [error] [client 144.76.12.75] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Fri Apr 22 17:21:42 2016] [error] [client 144.76.12.75] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Fri Apr 22 21:02:23 2016] [error] [client 136.243.5.87] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri Apr 22 21:02:24 2016] [error] [client 136.243.5.87] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:

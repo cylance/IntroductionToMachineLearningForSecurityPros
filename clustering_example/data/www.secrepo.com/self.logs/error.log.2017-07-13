@@ -1,0 +1,15 @@
+[Thu Jul 13 04:20:42 2017] [error] [client 173.208.169.26] File does not exist: /home/sooshie/secrepo.com/wp-admin
+[Thu Jul 13 04:20:42 2017] [error] [client 173.208.169.26] File does not exist: /home/sooshie/secrepo.com/press
+[Thu Jul 13 04:20:42 2017] [error] [client 173.208.169.26] File does not exist: /home/sooshie/secrepo.com/cms
+[Thu Jul 13 04:20:42 2017] [error] [client 173.208.169.26] File does not exist: /home/sooshie/secrepo.com/main
+[Thu Jul 13 04:20:42 2017] [error] [client 173.208.169.26] File does not exist: /home/sooshie/secrepo.com/protal
+[Thu Jul 13 05:28:58 2017] [error] [client 71.232.121.63] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-08.gz
+[Thu Jul 13 07:31:07 2017] [error] [client 124.123.88.233] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Jul 13 08:30:26 2017] [error] [client 38.100.21.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Thu Jul 13 08:30:26 2017] [error] [client 38.100.21.67] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Jul 13 11:14:31 2017] [error] [client 52.91.184.228] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Thu Jul 13 12:42:47 2017] [error] [client 54.165.59.7] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Thu Jul 13 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-07-11.gz
+[Thu Jul 13 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-07-12.gz
+[Thu Jul 13 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-07-13.gz
+[Thu Jul 13 20:24:23 2017] [error] [client 189.4.72.85] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-114x114.png

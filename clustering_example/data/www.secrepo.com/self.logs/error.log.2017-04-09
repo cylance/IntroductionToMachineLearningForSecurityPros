@@ -1,0 +1,19 @@
+[Sun Apr 09 03:44:47 2017] [error] [client 157.55.39.178] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf
+[Sun Apr 09 08:20:57 2017] [error] [client 188.103.169.234] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Sun Apr 09 08:20:57 2017] [error] [client 188.103.169.234] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Sun Apr 09 08:20:58 2017] [error] [client 188.103.169.234] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Apr 09 08:20:58 2017] [error] [client 188.103.169.234] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Apr 09 18:21:14 2017] [error] [client 180.76.15.163] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Sun Apr 09 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-04-07.gz
+[Sun Apr 09 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-04-08.gz
+[Sun Apr 09 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-04-09.gz
+[Sun Apr 09 21:07:41 2017] [error] [client 221.223.235.101] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Apr 09 21:07:42 2017] [error] [client 221.223.235.101] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Apr 09 21:07:43 2017] [error] [client 221.223.235.101] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Apr 09 21:07:43 2017] [error] [client 221.223.235.101] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Apr 09 23:29:16 2017] [error] [client 111.198.187.130] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Sun Apr 09 23:43:32 2017] [error] [client 111.200.39.25] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Apr 09 23:43:39 2017] [error] [client 111.200.39.25] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Apr 09 23:46:56 2017] [error] [client 111.200.39.30] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Mon Apr 10 00:19:36 2017] [error] [client 207.46.13.68] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Mon Apr 10 01:39:27 2017] [error] [client 40.77.167.36] File does not exist: /home/sooshie/secrepo.com/data

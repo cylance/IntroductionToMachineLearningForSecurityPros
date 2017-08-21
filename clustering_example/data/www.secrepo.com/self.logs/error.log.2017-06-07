@@ -1,0 +1,71 @@
+[Wed Jun 07 05:54:51 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 05:54:51 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 05:54:53 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 05:54:53 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 05:54:53 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 05:54:54 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 05:54:55 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 05:54:55 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 05:54:56 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 05:54:56 2017] [error] [client 121.211.200.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 06:31:09 2017] [error] [client 139.162.84.86] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 06:31:13 2017] [error] [client 139.162.84.86] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 06:31:15 2017] [error] [client 139.162.84.86] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 06:31:16 2017] [error] [client 139.162.84.86] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 07:35:40 2017] [error] [client 5.196.87.173] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Jun 07 08:00:58 2017] [error] [client 188.21.7.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 08:00:58 2017] [error] [client 188.21.7.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 08:00:59 2017] [error] [client 188.21.7.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 08:00:59 2017] [error] [client 188.21.7.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 08:01:08 2017] [error] [client 188.21.7.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 08:01:08 2017] [error] [client 188.21.7.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 08:29:22 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/"] [unique_id "WTgb0tBxoAQAAFtkWaIAAAAH"]
+[Wed Jun 07 08:29:22 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Wed Jun 07 08:29:22 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/"] [unique_id "WTgb0tBxoAQAAAbpv80AAAAG"]
+[Wed Jun 07 08:29:23 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Wed Jun 07 08:29:23 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/uploadify/uploadify.php"] [unique_id "WTgb09BxoAQAABSHhJ4AAAAO"]
+[Wed Jun 07 08:29:23 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/uploadify, referer: http://www.secrepo.com/wp-admin/
+[Wed Jun 07 08:29:24 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/uploadify/uploadify.php"] [unique_id "WTgb1NBxoAQAAAyjBb0AAAAM"]
+[Wed Jun 07 08:29:24 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/uploadify, referer: http://www.secrepo.com/wp-admin/
+[Wed Jun 07 08:29:24 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/wp-admin/admin-ajax.php"] [unique_id "WTgb1NBxoAQAAAyiBMsAAAAL"]
+[Wed Jun 07 08:29:24 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-admin/
+[Wed Jun 07 08:29:25 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/wp-admin/admin-ajax.php"] [unique_id "WTgb1dBxoAQAAAyqCmIAAAAP"]
+[Wed Jun 07 08:29:25 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-admin/
+[Wed Jun 07 08:29:25 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/license.php"] [unique_id "WTgb1dBxoAQAAAyqCmUAAAAP"]
+[Wed Jun 07 08:29:25 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/license.php"] [unique_id "WTgb1dBxoAQAAAyjBcYAAAAM"]
+[Wed Jun 07 09:30:01 2017] [error] [client 79.145.102.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Wed Jun 07 09:30:01 2017] [error] [client 79.145.102.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Wed Jun 07 09:30:01 2017] [error] [client 79.145.102.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 09:30:01 2017] [error] [client 79.145.102.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 10:38:28 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 10:38:28 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 10:38:28 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 10:38:28 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 11:09:38 2017] [error] [client 178.113.245.124] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 11:09:38 2017] [error] [client 178.113.245.124] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 11:09:39 2017] [error] [client 178.113.245.124] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 11:09:39 2017] [error] [client 178.113.245.124] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 11:51:36 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 11:51:36 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 11:51:37 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jun 07 11:51:37 2017] [error] [client 71.198.27.146] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jun 07 12:28:03 2017] [error] [client 13.56.16.131] File does not exist: /home/sooshie/secrepo.com/data
+[Wed Jun 07 12:28:10 2017] [error] [client 13.56.16.131] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Jun 07 12:28:11 2017] [error] [client 13.56.16.131] File does not exist: /home/sooshie/secrepo.com/data
+[Wed Jun 07 12:28:11 2017] [error] [client 13.56.16.131] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Jun 07 16:11:08 2017] [error] [client 185.7.215.225] File does not exist: /home/sooshie/secrepo.com/wp-admin
+[Wed Jun 07 17:54:03 2017] [error] [client 201.9.166.145] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Jun 07 17:54:23 2017] [error] [client 201.9.166.145] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Jun 07 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-05.gz
+[Wed Jun 07 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-06.gz
+[Wed Jun 07 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-07.gz
+[Wed Jun 07 21:14:33 2017] [error] [client 66.249.64.193] File does not exist: /home/sooshie/secrepo.com/data
+[Wed Jun 07 21:15:17 2017] [error] [client 216.244.86.114] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/plugins/revslider/temp/update_extract/conf.php
+[Wed Jun 07 23:30:57 2017] [error] [client 223.72.72.217] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Jun 07 23:31:13 2017] [error] [client 223.72.72.217] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Thu Jun 08 00:46:16 2017] [error] [client 178.113.173.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Jun 08 00:46:16 2017] [error] [client 178.113.173.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Jun 08 02:13:49 2017] [error] [client 23.27.244.182] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Jun 08 02:13:49 2017] [error] [client 23.27.244.182] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Jun 08 02:13:49 2017] [error] [client 23.27.244.182] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Jun 08 02:13:50 2017] [error] [client 23.27.244.182] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png

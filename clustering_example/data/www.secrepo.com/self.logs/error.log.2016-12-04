@@ -1,0 +1,18 @@
+[Sun Dec 04 04:00:02 2016] [error] [client 77.75.78.172] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Sun Dec 04 08:57:14 2016] [error] [client 207.46.13.32] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Sun Dec 04 10:43:52 2016] [error] [client 80.91.162.98] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Dec 04 10:43:54 2016] [error] [client 80.91.162.98] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Dec 04 10:43:55 2016] [error] [client 80.91.162.98] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Dec 04 10:43:57 2016] [error] [client 80.91.162.98] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Dec 04 10:43:59 2016] [error] [client 80.91.162.98] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Dec 04 12:27:08 2016] [error] [client 69.196.253.30] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Dec 04 12:47:19 2016] [error] [client 68.205.21.137] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Dec 04 12:47:27 2016] [error] [client 68.205.21.137] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Dec 04 12:47:29 2016] [error] [client 68.205.21.137] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Dec 04 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-02.gz
+[Sun Dec 04 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-03.gz
+[Sun Dec 04 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-04.gz
+[Sun Dec 04 21:57:50 2016] [error] [client 207.241.225.184] File does not exist: /home/sooshie/secrepo.com/data
+[Mon Dec 05 00:51:20 2016] [error] [client 148.251.3.35] File does not exist: /home/sooshie/secrepo.com/sitemap.xml
+[Mon Dec 05 00:51:30 2016] [error] [client 148.251.3.35] File does not exist: /home/sooshie/secrepo.com/sitemap.xml
+[Mon Dec 05 00:51:51 2016] [error] [client 148.251.3.35] File does not exist: /home/sooshie/secrepo.com/data

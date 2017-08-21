@@ -1,0 +1,51 @@
+[Sun Nov 27 07:04:07 2016] [error] [client 71.62.50.247] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Sun Nov 27 07:04:08 2016] [error] [client 71.62.50.247] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Sun Nov 27 07:04:08 2016] [error] [client 71.62.50.247] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 07:04:08 2016] [error] [client 71.62.50.247] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 10:11:08 2016] [error] [client 104.207.146.172] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun Nov 27 10:35:59 2016] [error] [client 109.155.56.165] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 10:41:55 2016] [error] [client 176.33.37.192] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "secrepo.com"] [uri "/"] [unique_id "WDso89BxoAQAAECQUf8AAAAF"]
+[Sun Nov 27 10:42:31 2016] [error] [client 79.31.12.227] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 10:42:31 2016] [error] [client 79.31.12.227] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/missing.html"] [unique_id "WDspF9BxoAQAAGTuFDUAAAAA"]
+[Sun Nov 27 10:53:33 2016] [error] [client 67.183.207.48] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 11:01:37 2016] [error] [client 5.22.134.83] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-114x114.png
+[Sun Nov 27 11:51:31 2016] [error] [client 50.177.133.56] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 11:51:33 2016] [error] [client 24.192.188.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 13:22:06 2016] [error] [client 31.45.76.43] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 13:44:35 2016] [error] [client 84.209.65.77] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 15:16:27 2016] [error] [client 172.56.31.216] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 15:54:59 2016] [error] [client 173.73.238.104] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 17:18:08 2016] [error] [client 1.132.96.19] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 17:25:22 2016] [error] [client 77.131.79.88] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 17:55:54 2016] [error] [client 59.189.17.35] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-08.gz
+[Sun Nov 27 17:56:06 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-03-30.gz"] [unique_id "WDuOttBxoAQAAE3iLyEAAAAL"]
+[Sun Nov 27 17:56:19 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-04-23.gz"] [unique_id "WDuOwtBxoAQAAE3jL3gAAAAM"]
+[Sun Nov 27 17:56:56 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-07-04.gz"] [unique_id "WDuO6NBxoAQAACeAX@QAAAAJ"]
+[Sun Nov 27 17:57:26 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-08-30.gz"] [unique_id "WDuPBtBxoAQAACd6XoIAAAAH"]
+[Sun Nov 27 17:59:02 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2016-02-25.gz"] [unique_id "WDuPZtBxoAQAAHn-TVIAAAAC"]
+[Sun Nov 27 17:59:12 2016] [error] [client 59.189.17.35] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-03-13.gz
+[Sun Nov 27 18:00:40 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2016-08-16.gz"] [unique_id "WDuPyNBxoAQAAGXdr5EAAAAB"]
+[Sun Nov 27 18:00:46 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2016-08-27.gz"] [unique_id "WDuPztBxoAQAAHoATlYAAAAD"]
+[Sun Nov 27 18:00:46 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2016-08-28.gz"] [unique_id "WDuPztBxoAQAAHoBTrEAAAAE"]
+[Sun Nov 27 18:01:29 2016] [error] [client 59.189.17.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2016-11-11.gz"] [unique_id "WDuP@dBxoAQAAHn-TXYAAAAC"]
+[Sun Nov 27 18:01:38 2016] [error] [client 59.189.17.35] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-25.gz
+[Sun Nov 27 18:01:38 2016] [error] [client 59.189.17.35] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-26.gz
+[Sun Nov 27 18:01:39 2016] [error] [client 59.189.17.35] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-27.gz
+[Sun Nov 27 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-25.gz
+[Sun Nov 27 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-26.gz
+[Sun Nov 27 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-27.gz
+[Sun Nov 27 18:49:13 2016] [error] [client 172.99.78.104] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sun Nov 27 19:31:35 2016] [error] [client 163.172.66.76] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2016-11-06.gz"] [unique_id "WDulF9BxoAQAAH33GUsAAAAA"]
+[Sun Nov 27 19:32:37 2016] [error] [client 75.168.2.195] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 19:57:26 2016] [error] [client 81.248.197.206] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\\\(\\\\) {" at REQUEST_HEADERS:Referer. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "242"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/Honeypot%20-%20Howto.pdf"] [unique_id "WDurJtBxoAQAAEiWt1UAAAAF"]
+[Sun Nov 27 20:25:34 2016] [error] [client 70.197.141.173] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 20:34:06 2016] [error] [client 72.201.128.94] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 20:34:06 2016] [error] [client 72.201.128.94] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/missing.html"] [unique_id "WDuzvtBxoAQAAFVUQicAAAAG"]
+[Sun Nov 27 21:24:03 2016] [error] [client 178.162.205.21] File does not exist: /home/sooshie/secrepo.com/downloader, referer: http://www.secrepo.com/downloader/
+[Sun Nov 27 21:37:24 2016] [error] [client 64.68.165.166] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 23:01:06 2016] [error] [client 118.189.138.35] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Sun Nov 27 23:41:00 2016] [error] [client 173.35.90.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 27 23:52:16 2016] [error] [client 97.85.53.55] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Nov 28 00:55:12 2016] [error] [client 85.93.91.84] File does not exist: /home/sooshie/secrepo.com/data
+[Mon Nov 28 01:05:14 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Nov 28 02:16:45 2016] [error] [client 113.108.192.2] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/honeypot/Honeypot - Howto - BSides Austin.pdf"] [unique_id "WDwDotBxoAQAAA0uF4QAAAAB"]

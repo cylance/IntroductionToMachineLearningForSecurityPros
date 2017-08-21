@@ -1,0 +1,60 @@
+[Thu Nov 19 04:03:25 2015] [error] [client 101.226.66.177] File does not exist: /home/sooshie/secrepo.com/html5shim.googlecode.com, referer: http://www.secrepo.com//html5shim.googlecode.com/svn/trunk/html5.js
+[Thu Nov 19 04:03:25 2015] [error] [client 101.226.66.177] File does not exist: /home/sooshie/secrepo.com/netdna.bootstrapcdn.com, referer: http://www.secrepo.com//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+[Thu Nov 19 04:03:25 2015] [error] [client 101.226.66.177] File does not exist: /home/sooshie/secrepo.com/ajax.googleapis.com, referer: http://www.secrepo.com//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js
+[Thu Nov 19 04:15:46 2015] [error] [client 69.58.178.56] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Nov 19 04:50:27 2015] [error] [client 76.10.135.197] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Nov 19 06:12:43 2015] [error] [client 159.118.125.137] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Nov 19 06:26:12 2015] [error] [client 86.175.5.25] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu Nov 19 08:25:29 2015] [error] [client 141.12.66.6] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu Nov 19 08:56:13 2015] [error] [client 123.188.88.38] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Austin, referer: http://www.secrepo.com/
+[Thu Nov 19 10:31:39 2015] [error] [client 199.16.156.125] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Thu Nov 19 11:29:10 2015] [error] [client 66.249.65.165] File does not exist: /home/sooshie/secrepo.com/self
+[Thu Nov 19 19:35:16 2015] [error] [client 80.82.65.82] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data#
+[Thu Nov 19 20:03:43 2015] [error] [client 146.148.242.49] File does not exist: /home/sooshie/secrepo.com/include
+[Thu Nov 19 20:36:48 2015] [error] [client 111.206.36.140] File does not exist: /home/sooshie/secrepo.com/ajax.googleapis.com
+[Thu Nov 19 20:36:48 2015] [error] [client 111.206.36.19] File does not exist: /home/sooshie/secrepo.com/netdna.bootstrapcdn.com
+[Thu Nov 19 22:27:10 2015] [error] [client 173.165.36.107] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Nov 19 23:55:32 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/components, referer: http://secrepo.com/components/com_mailto/views/sent/metadata.xml
+[Thu Nov 19 23:55:32 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/components, referer: http://secrepo.com/components/com_mailto/views/sent/metadata.xml
+[Thu Nov 19 23:55:32 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/htaccess.txt, referer: http://secrepo.com/htaccess.txt
+[Thu Nov 19 23:55:32 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/libraries, referer: http://secrepo.com/libraries/joomla/filesystem/meta/language/en-GB/en-GB.lib_joomla_filesystem_patcher.ini
+[Thu Nov 19 23:55:32 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/CONTRIBUTING.md, referer: http://secrepo.com/CONTRIBUTING.md
+[Thu Nov 19 23:55:33 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/phpunit.xml.dist, referer: http://secrepo.com/phpunit.xml.dist
+[Thu Nov 19 23:55:33 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/joomla.xml, referer: http://secrepo.com/joomla.xml
+[Thu Nov 19 23:55:33 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/README.txt, referer: http://secrepo.com/README.txt
+[Thu Nov 19 23:55:33 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/robots.txt.dist, referer: http://secrepo.com/robots.txt.dist
+[Thu Nov 19 23:55:33 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/web.config.txt, referer: http://secrepo.com/web.config.txt
+[Thu Nov 19 23:55:33 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/installation, referer: http://secrepo.com/installation/CHANGELOG
+[Thu Nov 19 23:55:33 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/administrator, referer: http://secrepo.com/administrator/components/com_login/login.xml
+[Thu Nov 19 23:55:34 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/components, referer: http://secrepo.com/components/com_wrapper/wrapper.xml
+[Thu Nov 19 23:55:34 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/installation, referer: http://secrepo.com/installation/language/en-GB/en-GB.ini
+[Thu Nov 19 23:55:34 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/installation, referer: http://secrepo.com/installation/language/en-US/en-US.ini
+[Thu Nov 19 23:55:34 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/installation, referer: http://secrepo.com/installation/language/zh-CN/zh-CN.ini
+[Thu Nov 19 23:55:34 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/installation, referer: http://secrepo.com/installation/template/js/installation.js
+[Thu Nov 19 23:55:35 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/language, referer: http://secrepo.com/language/en-GB/en-GB.com_contact.ini
+[Thu Nov 19 23:55:35 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/libraries, referer: http://secrepo.com/libraries/joomla/html/language/en-GB/en-GB.jhtmldate.ini
+[Thu Nov 19 23:55:35 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/media, referer: http://secrepo.com/media/com_finder/js/indexer.js
+[Thu Nov 19 23:55:35 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/media, referer: http://secrepo.com/media/com_joomlaupdate/default.js
+[Thu Nov 19 23:55:35 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/media, referer: http://secrepo.com/media/editors/tinymce/templates/template_list.js
+[Thu Nov 19 23:55:35 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/media, referer: http://secrepo.com/media/jui/css/chosen.css
+[Thu Nov 19 23:55:35 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/modules, referer: http://secrepo.com/modules/mod_banners/mod_banners.xml
+[Thu Nov 19 23:55:36 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/plugins, referer: http://secrepo.com/plugins/authentication/joomla/joomla.xml
+[Thu Nov 19 23:55:36 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/license.txt, referer: http://secrepo.com/license.txt
+[Thu Nov 19 23:55:36 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/license.txt, referer: http://secrepo.com/license.txt
+[Thu Nov 19 23:55:37 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/license.txt, referer: http://secrepo.com/license.txt
+[Thu Nov 19 23:55:38 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://secrepo.com/wp-content/themes/twentyten/images/wordpress.png
+[Thu Nov 19 23:55:38 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://secrepo.com/wp-admin/images/wp-logo-2x.png
+[Thu Nov 19 23:55:38 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/readme.txt, referer: http://secrepo.com/readme.txt
+[Thu Nov 19 23:55:38 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/help.txt, referer: http://secrepo.com/help.txt
+[Thu Nov 19 23:55:39 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/readme.html, referer: http://secrepo.com/readme.html
+[Thu Nov 19 23:55:39 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/readme.htm, referer: http://secrepo.com/readme.htm
+[Thu Nov 19 23:55:39 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://secrepo.com/wp-admin/css/colors-classic.css
+[Thu Nov 19 23:55:39 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://secrepo.com/wp-admin/js/media-upload.dev.js
+[Thu Nov 19 23:55:39 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://secrepo.com/wp-content/plugins/akismet/akismet.js
+[Thu Nov 19 23:55:40 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://secrepo.com/wp-content/themes/classic/rtl.css
+[Thu Nov 19 23:55:40 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://secrepo.com/wp-content/themes/twentyeleven/readme.txt
+[Thu Nov 19 23:55:40 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://secrepo.com/wp-content/themes/twentyten/style.css
+[Thu Nov 19 23:55:40 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-includes, referer: http://secrepo.com/wp-includes/css/buttons.css
+[Thu Nov 19 23:55:41 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-includes, referer: http://secrepo.com/wp-includes/js/scriptaculous/wp-scriptaculous.js
+[Thu Nov 19 23:55:41 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-includes, referer: http://secrepo.com/wp-includes/js/tinymce/langs/wp-langs-en.js
+[Thu Nov 19 23:55:41 2015] [error] [client 68.64.170.74] File does not exist: /home/sooshie/secrepo.com/wp-includes, referer: http://secrepo.com/wp-includes/js/tinymce/wp-tinymce.js

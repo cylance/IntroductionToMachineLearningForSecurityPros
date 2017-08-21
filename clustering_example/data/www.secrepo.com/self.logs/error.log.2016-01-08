@@ -1,0 +1,42 @@
+[Fri Jan 08 07:03:37 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-17.gz
+[Fri Jan 08 07:03:37 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-18.gz
+[Fri Jan 08 07:03:37 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-19.gz
+[Fri Jan 08 07:03:37 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-20.gz
+[Fri Jan 08 07:03:37 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-21.gz
+[Fri Jan 08 07:03:37 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-22.gz
+[Fri Jan 08 07:03:38 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-23.gz
+[Fri Jan 08 07:03:38 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-24.gz
+[Fri Jan 08 07:03:38 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-25.gz
+[Fri Jan 08 07:03:38 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-26.gz
+[Fri Jan 08 07:03:38 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-27.gz
+[Fri Jan 08 07:03:38 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-28.gz
+[Fri Jan 08 07:03:38 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-29.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-30.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-31.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-01.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-02.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-03.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-04.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-05.gz
+[Fri Jan 08 07:03:39 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-06.gz
+[Fri Jan 08 07:03:40 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-07.gz
+[Fri Jan 08 07:03:40 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-08.gz
+[Fri Jan 08 07:03:40 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-09.gz
+[Fri Jan 08 07:03:40 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-10.gz
+[Fri Jan 08 07:03:40 2016] [error] [client 79.116.25.197] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-11.gz
+[Fri Jan 08 11:24:24 2016] [error] [client 199.167.115.13] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri Jan 08 11:43:50 2016] [error] [client 199.167.115.13] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Jan 08 16:00:57 2016] [error] [client 148.251.124.42] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Jan 08 16:00:59 2016] [error] [client 148.251.124.42] File does not exist: /home/sooshie/secrepo.com/ftp:
+[Fri Jan 08 16:01:28 2016] [error] [client 148.251.124.42] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Jan 08 16:01:28 2016] [error] [client 148.251.124.42] File does not exist: /home/sooshie/secrepo.com/ftp:
+[Fri Jan 08 19:03:30 2016] [error] [client 218.29.102.123] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri Jan 08 19:03:31 2016] [error] [client 218.29.102.123] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri Jan 08 19:04:11 2016] [error] [client 220.181.132.216] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/zeus/zeus_json.zip
+[Fri Jan 08 19:04:11 2016] [error] [client 27.221.19.16] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/zeus/zeus_json.zip
+[Fri Jan 08 19:04:36 2016] [error] [client 101.199.112.52] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Jan 08 19:04:37 2016] [error] [client 182.140.230.15] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Jan 08 19:04:41 2016] [error] [client 171.8.167.66] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Jan 08 19:04:43 2016] [error] [client 182.140.230.22] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Jan 08 19:04:46 2016] [error] [client 171.8.167.63] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Jan 08 19:04:47 2016] [error] [client 182.140.230.12] File does not exist: /home/sooshie/secrepo.com/zeus

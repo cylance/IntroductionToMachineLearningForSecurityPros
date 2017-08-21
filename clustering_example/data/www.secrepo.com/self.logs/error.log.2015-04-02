@@ -1,0 +1,13 @@
+[Thu Apr 02 01:48:12 2015] [error] [client 186.225.42.170] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%2520-%25202014.ipynb"] [unique_id "VR0CTNBxoAQAAFP4W54AAAAM"]
+[Thu Apr 02 06:20:22 2015] [error] [client 62.210.180.9] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/honeypot/Honeypot
+[Thu Apr 02 07:46:56 2015] [error] [client 91.200.12.39] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Thu Apr 02 12:49:05 2015] [error] [client 66.249.64.196] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf
+[Thu Apr 02 14:04:08 2015] [error] [client 69.30.255.130] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.hildebranauction.com/giuseppe-zanotti-python-sneakers.html
+[Thu Apr 02 14:32:58 2015] [error] [client 142.54.160.106] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Thu Apr 02 15:12:21 2015] [error] [client 69.30.255.130] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.lamonitori.ro/christianlouboutinpigalle100.asp
+[Fri Apr 03 00:48:14 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri Apr 03 00:48:17 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri Apr 03 00:48:24 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri Apr 03 00:48:26 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Fri Apr 03 00:48:27 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Fri Apr 03 01:41:29 2015] [error] [client 170.194.16.50] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml

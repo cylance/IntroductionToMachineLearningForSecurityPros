@@ -1,0 +1,15 @@
+[Sun May 03 01:58:31 2015] [error] [client 199.21.99.218] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf
+[Sun May 03 02:10:08 2015] [error] [client 46.4.123.172] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 03 02:10:12 2015] [error] [client 46.4.123.172] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 03 02:10:16 2015] [error] [client 46.4.123.172] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 03 02:10:21 2015] [error] [client 46.4.123.172] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun May 03 02:10:25 2015] [error] [client 46.4.123.172] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun May 03 07:18:03 2015] [error] [client 104.130.161.115] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sun May 03 13:32:10 2015] [error] [client 23.105.132.101] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/Honeypot%20-%20Howto.pdf"] [unique_id "VUaFytBxoAQAACpmijQAAAAL"]
+[Sun May 03 16:23:56 2015] [error] [client 99.105.105.94] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Sun May 03 16:23:56 2015] [error] [client 99.105.105.94] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Sun May 03 16:23:57 2015] [error] [client 99.105.105.94] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun May 03 16:23:57 2015] [error] [client 99.105.105.94] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun May 03 18:04:29 2015] [error] [client 62.210.38.166] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Sun May 03 23:06:28 2015] [error] [client 104.130.161.114] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon May 04 01:47:36 2015] [error] [client 176.97.116.131] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb

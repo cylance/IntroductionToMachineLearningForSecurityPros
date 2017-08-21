@@ -1,0 +1,6 @@
+[Tue Nov 17 02:34:55 2015] [error] [client 107.172.13.81] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Tue Nov 17 03:39:16 2015] [error] [client 204.45.15.210] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Nov 17 03:39:16 2015] [error] [client 204.45.15.210] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 17 03:39:16 2015] [error] [client 204.45.15.210] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Nov 17 03:39:17 2015] [error] [client 204.45.15.210] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 17 22:40:04 2015] [error] [client 195.154.227.118] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/

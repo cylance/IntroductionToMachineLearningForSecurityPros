@@ -1,0 +1,21 @@
+[Wed Jul 01 03:30:59 2015] [error] [client 209.126.117.84] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jul 01 03:31:01 2015] [error] [client 209.126.117.84] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jul 01 03:31:04 2015] [error] [client 209.126.117.84] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jul 01 03:31:06 2015] [error] [client 209.126.117.84] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Jul 01 03:31:09 2015] [error] [client 209.126.117.84] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Jul 01 03:57:49 2015] [error] [client 113.66.40.234] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Wed Jul 01 04:47:30 2015] [error] [client 91.121.121.43] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jul 01 06:08:20 2015] [error] [client 198.245.62.10] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jul 01 06:08:22 2015] [error] [client 198.245.62.10] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jul 01 06:08:25 2015] [error] [client 198.245.62.10] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Jul 01 06:08:29 2015] [error] [client 198.245.62.10] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Jul 01 06:48:17 2015] [error] [client 125.227.163.51] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf
+[Wed Jul 01 07:48:17 2015] [error] [client 107.150.43.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/honeypot/BSidesDFW/
+[Wed Jul 01 13:09:49 2015] [error] [client 104.255.67.238] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jul 01 13:22:11 2015] [error] [client 89.44.25.167] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Wed Jul 01 13:22:12 2015] [error] [client 89.44.25.167] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Wed Jul 01 18:31:03 2015] [error] [client 174.123.205.58] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:Cookie. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "secrepo.com"] [uri "/"] [unique_id "VZSUV9BxoAQAABcUDFEAAAAf"]
+[Wed Jul 01 21:37:43 2015] [error] [client 198.4.83.52] File does not exist: /home/sooshie/secrepo.com/contact, referer: http://www.secrepo.com/contact
+[Wed Jul 01 21:37:43 2015] [error] [client 198.4.83.52] File does not exist: /home/sooshie/secrepo.com/about, referer: http://www.secrepo.com/about
+[Wed Jul 01 21:48:44 2015] [error] [client 113.66.40.234] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Wed Jul 01 23:45:22 2015] [error] [client 107.149.67.58] File does not exist: /home/sooshie/secrepo.com/honeypot/trackback, referer: http://www.secrepo.com/honeypot/

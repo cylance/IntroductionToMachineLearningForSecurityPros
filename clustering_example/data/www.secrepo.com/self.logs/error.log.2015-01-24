@@ -1,0 +1,10 @@
+[Sat Jan 24 08:56:43 2015] [error] [client 181.41.217.243] ModSecurity: Access denied with code 418 (phase 2). Pattern match "wp-config.php" at ARGS_GET:img. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "249"] [id "1990071"] [msg "wp-config.php Local File Inclusion Attempt"] [hostname "www.secrepo.com"] [uri "/wp-admin/admin-ajax.php"] [unique_id "VMPOy9BxoAQAAH7pVqcAAAAI"]
+[Sat Jan 24 11:08:01 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-114x114.png
+[Sat Jan 24 11:08:02 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-72x72.png
+[Sat Jan 24 11:08:02 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png
+[Sat Jan 24 18:38:05 2015] [error] [client 37.57.231.221] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/honeypot/BSidesDFW
+[Sat Jan 24 19:37:10 2015] [error] [client 60.168.154.20] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Jan 24 19:37:11 2015] [error] [client 104.130.160.87] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Jan 24 20:34:31 2015] [error] [client 208.115.113.86] File does not exist: /home/sooshie/secrepo.com/data
+[Sat Jan 24 22:46:50 2015] [error] [client 104.130.161.37] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Jan 24 22:46:52 2015] [error] [client 60.168.154.19] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW

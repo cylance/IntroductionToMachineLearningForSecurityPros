@@ -1,0 +1,12 @@
+[Mon Dec 14 09:56:49 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Dec 14 09:56:50 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Dec 14 09:56:52 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Dec 14 09:56:53 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Dec 14 09:56:55 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Dec 14 22:07:30 2015] [error] [client 134.249.140.99] File does not exist: /home/sooshie/secrepo.com/blog
+[Mon Dec 14 22:07:30 2015] [error] [client 134.249.140.99] File does not exist: /home/sooshie/secrepo.com/blog
+[Mon Dec 14 22:07:30 2015] [error] [client 134.249.140.99] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Mon Dec 14 22:07:30 2015] [error] [client 134.249.140.99] File does not exist: /home/sooshie/secrepo.com/wp
+[Tue Dec 15 00:17:51 2015] [error] [client 89.71.125.214] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Tue Dec 15 01:09:16 2015] [error] [client 63.247.139.211] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf" data-clickurl="" class="url" data-dot="url">secrepo.com
+[Tue Dec 15 01:09:57 2015] [error] [client 187.45.240.8] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf" data-clickurl="" class="url" data-dot="url">secrepo.com

@@ -1,0 +1,28 @@
+[Wed Nov 18 06:56:54 2015] [error] [client 64.79.100.19] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data
+[Wed Nov 18 06:57:10 2015] [error] [client 64.79.100.19] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Wed Nov 18 07:11:13 2015] [error] [client 198.55.113.32] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Wed Nov 18 09:48:25 2015] [error] [client 91.121.221.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Nov 18 09:48:27 2015] [error] [client 91.121.221.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Nov 18 09:48:29 2015] [error] [client 91.121.221.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Nov 18 09:48:30 2015] [error] [client 91.121.221.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Nov 18 09:48:32 2015] [error] [client 91.121.221.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Nov 18 14:19:03 2015] [error] [client 69.30.213.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Nov 18 14:19:05 2015] [error] [client 69.30.213.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Nov 18 14:19:11 2015] [error] [client 69.30.213.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Nov 18 14:19:13 2015] [error] [client 69.30.213.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Nov 18 14:19:16 2015] [error] [client 69.30.213.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Nov 18 15:26:23 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/blog
+[Wed Nov 18 15:26:23 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/blog
+[Wed Nov 18 15:26:24 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Wed Nov 18 15:26:24 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/wp
+[Wed Nov 18 16:44:50 2015] [error] [client 130.195.199.196] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Wed Nov 18 19:16:46 2015] [error] [client 24.60.118.176] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Nov 18 20:21:20 2015] [error] [client 50.169.240.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Nov 18 20:24:20 2015] [error] [client 169.231.8.129] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Wed Nov 18 20:25:25 2015] [error] [client 195.154.226.90] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/
+[Wed Nov 18 20:41:29 2015] [error] [client 80.82.65.82] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data#
+[Wed Nov 18 23:32:24 2015] [error] [client 117.21.176.66] File does not exist: /home/sooshie/secrepo.com/fckeditor
+[Wed Nov 18 23:35:51 2015] [error] [client 128.214.138.172] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Nov 19 01:22:29 2015] [error] [client 101.226.65.107] File does not exist: /home/sooshie/secrepo.com/ajax.googleapis.com, referer: http://www.secrepo.com//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js
+[Thu Nov 19 01:22:29 2015] [error] [client 101.226.65.107] File does not exist: /home/sooshie/secrepo.com/netdna.bootstrapcdn.com, referer: http://www.secrepo.com//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+[Thu Nov 19 01:22:29 2015] [error] [client 101.226.65.107] File does not exist: /home/sooshie/secrepo.com/html5shim.googlecode.com, referer: http://www.secrepo.com//html5shim.googlecode.com/svn/trunk/html5.js

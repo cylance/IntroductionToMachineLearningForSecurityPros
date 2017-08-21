@@ -1,0 +1,3 @@
+[Wed Sep 02 02:06:16 2015] [error] [client 211.138.191.83] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed Sep 02 08:17:13 2015] [error] [client 172.246.69.157] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Wed Sep 02 18:33:31 2015] [error] [client 54.201.101.38] File does not exist: /home/sooshie/secrepo.com/license.txt

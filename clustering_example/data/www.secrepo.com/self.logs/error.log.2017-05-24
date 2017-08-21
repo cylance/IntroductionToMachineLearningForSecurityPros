@@ -1,0 +1,43 @@
+[Wed May 24 05:08:38 2017] [error] [client 121.88.66.89] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Wed May 24 06:30:49 2017] [error] [client 110.70.58.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Wed May 24 06:30:49 2017] [error] [client 110.70.58.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 24 06:30:49 2017] [error] [client 110.70.58.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 24 06:35:46 2017] [error] [client 212.2.174.67] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed May 24 07:19:30 2017] [error] [client 5.9.60.241] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed May 24 07:19:32 2017] [error] [client 5.9.60.241] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed May 24 07:19:35 2017] [error] [client 5.9.60.241] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed May 24 07:19:37 2017] [error] [client 5.9.60.241] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed May 24 07:19:40 2017] [error] [client 5.9.60.241] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed May 24 08:21:32 2017] [error] [client 190.6.80.18] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 24 08:21:33 2017] [error] [client 190.6.80.18] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 24 08:21:33 2017] [error] [client 190.6.80.18] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 24 08:26:50 2017] [error] [client 190.6.80.18] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 24 08:26:53 2017] [error] [client 190.6.80.18] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 24 08:26:54 2017] [error] [client 190.6.80.18] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 24 11:51:02 2017] [error] [client 84.105.247.9] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 24 11:51:02 2017] [error] [client 84.105.247.9] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 24 11:51:03 2017] [error] [client 84.105.247.9] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 24 11:51:03 2017] [error] [client 84.105.247.9] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 24 12:17:07 2017] [error] [client 52.90.33.223] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Wed May 24 12:32:26 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/blog
+[Wed May 24 12:32:26 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/blog
+[Wed May 24 12:32:26 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Wed May 24 12:32:26 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/wp
+[Wed May 24 14:02:03 2017] [error] [client 54.174.33.17] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Wed May 24 19:20:06 2017] [error] [client 61.248.224.17] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed May 24 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-22.gz
+[Wed May 24 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-23.gz
+[Wed May 24 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-24.gz
+[Wed May 24 19:55:33 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 24 19:55:34 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 24 19:55:34 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 24 19:55:34 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 24 21:27:12 2017] [error] [client 39.110.209.48] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed May 24 21:28:54 2017] [error] [client 39.110.209.48] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed May 24 21:30:39 2017] [error] [client 39.110.209.48] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 24 22:26:13 2017] [error] [client 39.110.209.48] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed May 24 22:28:13 2017] [error] [client 39.110.209.48] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Thu May 25 01:07:55 2017] [error] [client 81.36.208.111] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu May 25 01:07:55 2017] [error] [client 81.36.208.111] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu May 25 01:07:55 2017] [error] [client 81.36.208.111] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu May 25 01:07:55 2017] [error] [client 81.36.208.111] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png

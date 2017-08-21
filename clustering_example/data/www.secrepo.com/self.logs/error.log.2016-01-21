@@ -1,0 +1,9 @@
+[Thu Jan 21 11:13:41 2016] [error] [client 172.245.24.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Jan 21 11:13:43 2016] [error] [client 172.245.24.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Jan 21 11:13:44 2016] [error] [client 172.245.24.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Jan 21 11:13:45 2016] [error] [client 172.245.24.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu Jan 21 11:13:47 2016] [error] [client 172.245.24.138] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu Jan 21 17:32:27 2016] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/blog
+[Thu Jan 21 17:32:28 2016] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/blog
+[Thu Jan 21 17:32:28 2016] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Thu Jan 21 17:32:28 2016] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/wp

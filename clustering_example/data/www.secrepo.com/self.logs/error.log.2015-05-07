@@ -1,0 +1,340 @@
+[Thu May 07 03:54:45 2015] [error] [client 220.181.108.180] File does not exist: /home/sooshie/secrepo.com/data
+[Thu May 07 04:10:30 2015] [error] [client 94.23.19.178] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 07 04:10:31 2015] [error] [client 94.23.19.178] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 07 04:10:34 2015] [error] [client 94.23.19.178] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 07 04:10:38 2015] [error] [client 94.23.19.178] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu May 07 04:10:41 2015] [error] [client 94.23.19.178] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu May 07 09:49:31 2015] [error] [client 41.249.83.45] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:Referer. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%20-%202014.ipynb"] [unique_id "VUuXm9BxoAQAAAh5LYIAAAAA"]
+[Thu May 07 11:06:33 2015] [error] [client 101.30.232.234] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu May 07 14:48:28 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:48:30 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:48:30 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:48:32 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:50:18 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:50:19 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:50:19 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:50:21 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:52:05 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:52:22 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:52:22 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:52:24 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:52:24 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:52:25 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:52:25 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:52:27 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:52:27 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:52:28 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:52:29 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:52:30 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:52:59 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:11 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:21 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:22 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:23 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:53:24 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:53:24 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:53:26 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:53:26 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:53:27 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:53:28 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:53:29 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:53:50 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:52 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:52 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:55 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:53:58 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:54:00 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:54:05 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:54:06 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:54:07 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:54:08 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:54:08 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:54:10 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:57:47 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:58:02 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:58:27 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:58:28 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:58:33 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:58:34 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:58:35 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:58:36 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:58:36 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:58:38 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:58:38 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:58:44 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:58:45 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:58:51 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 14:59:46 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:59:47 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:59:47 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:59:49 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 14:59:49 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:59:50 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:59:51 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:59:57 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 14:59:57 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:00:04 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:00:04 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:00:05 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:00:05 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:00:06 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:00:12 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:00:13 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:01:12 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:01:19 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:03:04 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:03:06 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:03:06 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:03:07 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:05:35 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:05:36 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:05:37 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:05:38 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:05:38 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:05:40 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:05:40 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:05:41 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:05:41 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:05:43 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:05:43 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:05:44 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:06:32 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:06:34 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:06:34 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:06:35 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:06:36 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:06:37 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:06:37 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:06:39 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:06:39 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:06:40 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:06:40 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:06:42 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:07:06 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:07:08 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:07:08 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:07:09 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:07:10 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:07:12 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:07:12 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:07:13 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:07:15 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:07:16 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:07:16 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:07:17 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:09:18 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:09:24 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:09:30 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:09:31 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:09:32 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:09:33 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:10:03 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:10:07 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:10:18 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:10:19 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:10:20 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:11:07 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:11:08 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:11:30 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:11:30 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:11:32 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:11:32 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:11:44 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:11:44 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:11:46 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:11:46 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:11:53 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:12:47 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:12:48 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:12:54 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:12:55 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:13:01 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:13:02 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:13:03 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:13:04 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:13:10 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:13:11 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:13:17 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:13:24 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:14:41 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:14:42 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:14:43 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:14:59 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:15:00 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:15:06 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:15:07 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:15:08 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:15:14 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:15:55 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:15:56 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:15:56 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:15:58 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:15:58 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:15:59 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:16:00 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:16:01 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:16:22 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:17:58 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:18:00 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:18:06 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:19:13 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:19:24 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:20:10 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:20:42 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:21:16 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:21:18 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:21:18 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:21:19 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:21:19 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:21:21 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:21:21 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:21:22 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:21:23 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:21:24 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:21:24 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:21:26 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:25:37 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:25:44 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:25:49 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:26:06 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:30:44 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:30:46 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:30:46 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:30:47 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:30:47 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:30:49 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:30:49 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:30:50 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:30:51 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:30:52 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:30:53 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:30:54 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:42:24 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:42:25 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:42:26 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:42:27 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:42:27 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:42:29 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:42:29 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:42:30 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:42:30 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:42:32 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:42:32 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:42:33 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:57:42 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Austin.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:57:43 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Austin.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:57:44 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Austin.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:57:45 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Austin.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 15:57:45 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:57:47 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:57:47 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:57:48 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 15:57:49 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:57:50 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:57:50 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 15:57:51 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 16:13:26 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 16:13:38 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 16:13:43 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 16:13:45 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 16:13:45 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 16:13:52 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 16:14:07 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 16:14:09 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 16:14:09 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 16:14:16 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 16:14:16 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 16:17:13 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 16:17:25 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 16:17:25 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 16:17:27 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 17:08:34 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Thu May 07 17:09:51 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:11:19 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:12:00 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:29:58 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:30:11 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:30:12 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:30:12 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:30:14 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:30:14 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:30:16 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:30:16 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:30:17 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:30:18 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:30:19 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:30:20 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:30:21 2015] [error] [client 80.68.154.80] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:30:23 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:35:01 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:35:07 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:53:09 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:53:15 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:53:16 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:53:17 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:53:21 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:53:26 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:53:38 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:53:39 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:54:01 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:54:02 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 17:54:08 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:54:09 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:54:13 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:54:14 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 17:54:18 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:54:19 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:54:25 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:54:58 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:55:04 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 17:55:18 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:03:16 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 18:07:09 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:07:15 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:07:34 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:07:38 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:07:39 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:07:40 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:07:41 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:25:29 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 18:26:16 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 18:27:23 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:27:45 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:27:45 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:27:47 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:28:18 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:30:40 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 18:30:47 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 18:30:52 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 18:31:34 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:31:35 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:31:41 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:31:47 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 18:31:53 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:31:54 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:31:55 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 18:31:56 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 20:18:15 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 20:18:17 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 20:18:23 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 20:18:48 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 20:18:54 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 20:19:10 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 20:19:14 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 20:19:18 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 20:20:21 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 20:49:52 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 20:50:54 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7000_board/setup.php
+[Thu May 07 20:51:21 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 20:51:31 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 20:52:03 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 20:52:44 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 20:52:46 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 22:40:46 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 22:40:48 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 22:40:48 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 22:41:05 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Thu May 07 22:41:52 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 22:41:52 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 22:41:59 2015] [error] [client 41.193.5.54] File does not exist: /home/sooshie/secrepo.com/bbs
+[Thu May 07 23:59:13 2015] [error] [client 82.80.249.171] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf, referer: http://www.pdfthron.com/ext_download.php?name=Honeypot+Howto+-+SecRepo&link=http://www.secrepo.com/honeypot/Honeypot%252520-%252520Howto.pdf&query=zboard.php++bbs+skin+zero_vote+setup.php

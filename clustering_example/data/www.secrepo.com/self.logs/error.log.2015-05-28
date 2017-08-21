@@ -1,0 +1,13 @@
+[Thu May 28 03:44:34 2015] [error] [client 162.210.196.129] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 28 03:44:35 2015] [error] [client 162.210.196.129] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 28 03:44:36 2015] [error] [client 162.210.196.129] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 28 03:44:38 2015] [error] [client 162.210.196.129] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu May 28 03:44:39 2015] [error] [client 162.210.196.129] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu May 28 05:52:42 2015] [error] [client 15.211.201.86] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Thu May 28 08:47:31 2015] [error] [client 188.240.128.44] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Thu May 28 08:47:32 2015] [error] [client 188.240.128.44] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Thu May 28 15:37:58 2015] [error] [client 107.150.43.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/honeypot/BSidesDFW/
+[Thu May 28 21:27:13 2015] [error] [client 78.46.174.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 28 21:27:14 2015] [error] [client 78.46.174.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu May 28 23:33:41 2015] [error] [client 194.244.43.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu May 28 23:33:41 2015] [error] [client 194.244.43.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png

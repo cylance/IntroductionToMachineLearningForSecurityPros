@@ -1,0 +1,28 @@
+[Sun May 28 03:03:26 2017] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun May 28 03:14:22 2017] [error] [client 150.70.173.58] File does not exist: /home/sooshie/secrepo.com/http:
+[Sun May 28 03:16:56 2017] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun May 28 03:27:33 2017] [error] [client 91.200.12.106] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun May 28 03:39:45 2017] [error] [client 91.200.12.106] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun May 28 03:42:30 2017] [error] [client 150.70.173.21] File does not exist: /home/sooshie/secrepo.com/http:
+[Sun May 28 11:38:56 2017] [error] [client 50.112.194.65] File does not exist: /home/sooshie/secrepo.com/http:
+[Sun May 28 12:20:48 2017] [error] [client 96.126.100.144] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun May 28 12:58:46 2017] [error] [client 157.55.39.180] File does not exist: /home/sooshie/secrepo.com/data
+[Sun May 28 18:15:47 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun May 28 18:15:48 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun May 28 18:15:51 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Sun May 28 18:15:52 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Sun May 28 18:17:15 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun May 28 18:17:16 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun May 28 18:17:19 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Sun May 28 18:17:20 2017] [error] [client 37.59.17.188] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Sun May 28 19:28:15 2017] [error] [client 96.126.100.144] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun May 28 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-26.gz
+[Sun May 28 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-27.gz
+[Sun May 28 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-28.gz
+[Mon May 29 01:38:16 2017] [error] [client 144.12.154.39] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Mon May 29 01:39:07 2017] [error] [client 106.120.161.68] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data#
+[Mon May 29 01:39:08 2017] [error] [client 171.13.14.134] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data#
+[Mon May 29 01:39:09 2017] [error] [client 171.13.14.134] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data#
+[Mon May 29 01:40:03 2017] [error] [client 171.13.14.146] File does not exist: /home/sooshie/secrepo.com/data
+[Mon May 29 01:40:36 2017] [error] [client 182.118.20.149] File does not exist: /home/sooshie/secrepo.com/data
+[Mon May 29 01:40:37 2017] [error] [client 171.13.14.134] File does not exist: /home/sooshie/secrepo.com/data

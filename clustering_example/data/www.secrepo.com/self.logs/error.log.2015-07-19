@@ -1,0 +1,17 @@
+[Sun Jul 19 04:34:41 2015] [error] [client 104.155.16.67] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%20-%202014.ipynb"] [unique_id "VauLUdBxoAQAAGQlCo4AAAAQ"]
+[Sun Jul 19 09:22:50 2015] [error] [client 217.69.133.247] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Jul 19 12:54:59 2015] [error] [client 37.104.28.106] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Sun Jul 19 13:01:53 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 19 13:01:55 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 19 13:01:56 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 19 13:01:58 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Jul 19 13:01:59 2015] [error] [client 5.9.111.70] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Jul 19 13:20:47 2015] [error] [client 91.106.109.175] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Sun Jul 19 14:06:20 2015] [error] [client 123.182.150.192] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Sun Jul 19 19:32:39 2015] [error] [client 69.58.178.58] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Jul 19 20:16:32 2015] [error] [client 213.184.102.21] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Sun Jul 19 20:16:34 2015] [error] [client 213.184.102.21] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Sun Jul 19 23:14:01 2015] [error] [client 195.16.110.62] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Jul 19 23:14:01 2015] [error] [client 195.16.110.62] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Jul 19 23:49:41 2015] [error] [client 104.155.16.67] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%20-%202014.ipynb"] [unique_id "VayaBdBxoAQAAHhjLrgAAAAB"]
+[Mon Jul 20 00:27:22 2015] [error] [client 104.155.16.67] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/Honeypot%20-%20Howto.pdf"] [unique_id "Vayi2tBxoAQAAD59cSYAAAAl"]

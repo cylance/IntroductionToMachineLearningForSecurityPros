@@ -1,0 +1,21 @@
+[Fri Jul 22 03:31:43 2016] [error] [client 54.87.122.224] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Jul 22 03:50:21 2016] [error] [client 100.15.133.110] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Fri Jul 22 05:45:27 2016] [error] [client 50.206.46.66] File does not exist: /home/sooshie/secrepo.com/blog
+[Fri Jul 22 05:45:27 2016] [error] [client 50.206.46.66] File does not exist: /home/sooshie/secrepo.com/blog
+[Fri Jul 22 05:45:27 2016] [error] [client 50.206.46.66] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Fri Jul 22 05:45:27 2016] [error] [client 50.206.46.66] File does not exist: /home/sooshie/secrepo.com/wp
+[Fri Jul 22 07:09:09 2016] [error] [client 50.62.176.89] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^/(?:wp-)?config(?:uration)?\\\\.(?:php|bac?k|off|ori?g)" at REQUEST_FILENAME. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "309"] [id "1990079"] [msg "Bot searching for config file"] [hostname "www.secrepo.com"] [uri "/configuration.php"] [unique_id "V5IpBdBxoAQAAC8RWmUAAAAA"]
+[Fri Jul 22 07:09:09 2016] [error] [client 50.62.176.89] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^/(?:wp-)?config(?:uration)?\\\\.(?:php|bac?k|off|ori?g)" at REQUEST_FILENAME. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "309"] [id "1990079"] [msg "Bot searching for config file"] [hostname "www.secrepo.com"] [uri "/configuration.php"] [unique_id "V5IpBdBxoAQAADMGO74AAAAK"]
+[Fri Jul 22 07:09:13 2016] [error] [client 50.62.176.89] ModSecurity: Access denied with code 418 (phase 2). Pattern match "(?:\\\\.php\\\\?act=(chmod&f|cmd|ls|f&f)|cx529\\\\.php|\\\\.php\\\\?(?:phpinfo|mtnf|p0k3r)|/shell[0-9]?\\\\.php|/\\\\.get\\\\.php)" at REQUEST_URI. [file "/dh/apache2/template/etc/mod_sec2/50_asl_rootkits.conf"] [line "36"] [id "390147"] [rev "17"] [msg "Atomicorp.com - FREE UNSUPPORTED DELAYED FEED - WAF Rules: Command shell attack: PHP exploit shell attempting to run command"] [data "/shell.php"] [severity "CRITICAL"] [hostname "www.secrepo.com"] [uri "/shell.php"] [unique_id "V5IpCdBxoAQAAC3HLrUAAAAL"]
+[Fri Jul 22 08:05:08 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Jul 22 08:05:08 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Jul 22 08:05:08 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Jul 22 08:05:09 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Jul 22 16:53:11 2016] [error] [client 91.200.12.106] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Fri Jul 22 17:09:10 2016] [error] [client 91.200.12.106] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Fri Jul 22 18:02:31 2016] [error] [client 91.200.12.141] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Fri Jul 22 18:18:07 2016] [error] [client 91.200.12.141] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Fri Jul 22 21:50:22 2016] [error] [client 178.162.217.145] File does not exist: /home/sooshie/secrepo.com/tmp
+[Fri Jul 22 22:48:55 2016] [error] [client 77.75.76.170] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Jul 22 23:58:48 2016] [error] [client 104.236.33.20] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat Jul 23 01:12:37 2016] [error] [client 180.76.15.158] File does not exist: /home/sooshie/secrepo.com/data

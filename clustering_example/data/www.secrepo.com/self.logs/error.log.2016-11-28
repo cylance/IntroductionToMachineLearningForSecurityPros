@@ -1,0 +1,177 @@
+[Mon Nov 28 03:23:40 2016] [error] [client 66.249.66.101] File does not exist: /home/sooshie/secrepo.com/m
+[Mon Nov 28 03:35:12 2016] [error] [client 114.72.36.119] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-01-28.gz"] [unique_id "WDwWcNBxoAQAAEMDCX0AAAAB"]
+[Mon Nov 28 03:35:35 2016] [error] [client 114.72.36.119] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-08.gz
+[Mon Nov 28 03:35:55 2016] [error] [client 114.72.36.119] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-04-15.gz"] [unique_id "WDwWm9BxoAQAAEaLf@gAAAAE"]
+[Mon Nov 28 03:36:53 2016] [error] [client 114.72.36.119] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-07-27.gz"] [unique_id "WDwW1dBxoAQAADnelF4AAAAF"]
+[Mon Nov 28 03:37:02 2016] [error] [client 114.72.36.119] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-08-14.gz"] [unique_id "WDwW3tBxoAQAADhTaL4AAAAI"]
+[Mon Nov 28 03:37:35 2016] [error] [client 114.72.36.119] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-10-07.gz"] [unique_id "WDwW-9BxoAQAAERmOH8AAAAH"]
+[Mon Nov 28 04:24:46 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-1.gz
+[Mon Nov 28 04:24:47 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-2.gz
+[Mon Nov 28 04:24:47 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-3.gz
+[Mon Nov 28 04:24:47 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/missing.html"] [unique_id "WDwiD9BxoAQAAGUXbEgAAAAH"]
+[Mon Nov 28 04:24:47 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-4.gz
+[Mon Nov 28 04:24:47 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-5.gz
+[Mon Nov 28 04:24:48 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-6.gz
+[Mon Nov 28 04:24:48 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-7.gz
+[Mon Nov 28 04:24:48 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-8.gz
+[Mon Nov 28 04:24:48 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-9.gz
+[Mon Nov 28 04:24:49 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-10.gz
+[Mon Nov 28 04:24:49 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-11.gz
+[Mon Nov 28 04:24:49 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-12.gz
+[Mon Nov 28 04:24:49 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-13.gz
+[Mon Nov 28 04:24:50 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-14.gz
+[Mon Nov 28 04:24:50 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-15.gz
+[Mon Nov 28 04:24:50 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-16.gz
+[Mon Nov 28 04:24:54 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-1.gz
+[Mon Nov 28 04:24:54 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-2.gz
+[Mon Nov 28 04:24:55 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-3.gz
+[Mon Nov 28 04:24:55 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-4.gz
+[Mon Nov 28 04:24:55 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-5.gz
+[Mon Nov 28 04:24:55 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-6.gz
+[Mon Nov 28 04:24:56 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-7.gz
+[Mon Nov 28 04:24:56 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-8.gz
+[Mon Nov 28 04:24:56 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-9.gz
+[Mon Nov 28 04:25:02 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-1.gz
+[Mon Nov 28 04:25:03 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-2.gz
+[Mon Nov 28 04:25:03 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-3.gz
+[Mon Nov 28 04:25:03 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-4.gz
+[Mon Nov 28 04:25:03 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-5.gz
+[Mon Nov 28 04:25:04 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-6.gz
+[Mon Nov 28 04:25:04 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-7.gz
+[Mon Nov 28 04:25:04 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-8.gz
+[Mon Nov 28 04:25:04 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-9.gz
+[Mon Nov 28 04:25:06 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-03-15.gz"] [unique_id "WDwiItBxoAQAAHe1avgAAAAE"]
+[Mon Nov 28 04:25:07 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-03-20.gz"] [unique_id "WDwiI9BxoAQAAFCnDigAAAAG"]
+[Mon Nov 28 04:25:10 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-1.gz
+[Mon Nov 28 04:25:11 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-2.gz
+[Mon Nov 28 04:25:11 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-3.gz
+[Mon Nov 28 04:25:11 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-4.gz
+[Mon Nov 28 04:25:11 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-5.gz
+[Mon Nov 28 04:25:12 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-6.gz
+[Mon Nov 28 04:25:12 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-7.gz
+[Mon Nov 28 04:25:12 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-8.gz
+[Mon Nov 28 04:25:12 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-9.gz
+[Mon Nov 28 04:25:18 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-1.gz
+[Mon Nov 28 04:25:19 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-2.gz
+[Mon Nov 28 04:25:19 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-3.gz
+[Mon Nov 28 04:25:19 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-4.gz
+[Mon Nov 28 04:25:19 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-5.gz
+[Mon Nov 28 04:25:20 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-6.gz
+[Mon Nov 28 04:25:20 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-7.gz
+[Mon Nov 28 04:25:20 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-8.gz
+[Mon Nov 28 04:25:20 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-9.gz
+[Mon Nov 28 04:25:26 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-1.gz
+[Mon Nov 28 04:25:27 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-2.gz
+[Mon Nov 28 04:25:27 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-3.gz
+[Mon Nov 28 04:25:27 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-4.gz
+[Mon Nov 28 04:25:27 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-5.gz
+[Mon Nov 28 04:25:28 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-6.gz
+[Mon Nov 28 04:25:28 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-7.gz
+[Mon Nov 28 04:25:28 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-8.gz
+[Mon Nov 28 04:25:28 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-9.gz
+[Mon Nov 28 04:25:34 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-1.gz
+[Mon Nov 28 04:25:34 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-2.gz
+[Mon Nov 28 04:25:35 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-3.gz
+[Mon Nov 28 04:25:35 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-4.gz
+[Mon Nov 28 04:25:35 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-5.gz
+[Mon Nov 28 04:25:35 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-6.gz
+[Mon Nov 28 04:25:36 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-7.gz
+[Mon Nov 28 04:25:36 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-8.gz
+[Mon Nov 28 04:25:36 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-9.gz
+[Mon Nov 28 04:25:42 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-1.gz
+[Mon Nov 28 04:25:42 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-2.gz
+[Mon Nov 28 04:25:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-3.gz
+[Mon Nov 28 04:25:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-4.gz
+[Mon Nov 28 04:25:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-5.gz
+[Mon Nov 28 04:25:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-6.gz
+[Mon Nov 28 04:25:44 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-7.gz
+[Mon Nov 28 04:25:44 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-8.gz
+[Mon Nov 28 04:25:44 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-9.gz
+[Mon Nov 28 04:25:50 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-1.gz
+[Mon Nov 28 04:25:51 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-2.gz
+[Mon Nov 28 04:25:51 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-3.gz
+[Mon Nov 28 04:25:51 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-4.gz
+[Mon Nov 28 04:25:51 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-5.gz
+[Mon Nov 28 04:25:52 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-6.gz
+[Mon Nov 28 04:25:52 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-7.gz
+[Mon Nov 28 04:25:52 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-8.gz
+[Mon Nov 28 04:25:52 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-9.gz
+[Mon Nov 28 04:25:58 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-1.gz
+[Mon Nov 28 04:25:58 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-2.gz
+[Mon Nov 28 04:25:59 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-3.gz
+[Mon Nov 28 04:25:59 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-4.gz
+[Mon Nov 28 04:25:59 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-5.gz
+[Mon Nov 28 04:25:59 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-6.gz
+[Mon Nov 28 04:26:00 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-7.gz
+[Mon Nov 28 04:26:00 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-8.gz
+[Mon Nov 28 04:26:00 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-9.gz
+[Mon Nov 28 04:26:07 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-1.gz
+[Mon Nov 28 04:26:07 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-2.gz
+[Mon Nov 28 04:26:07 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-3.gz
+[Mon Nov 28 04:26:07 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-4.gz
+[Mon Nov 28 04:26:08 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-5.gz
+[Mon Nov 28 04:26:08 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-6.gz
+[Mon Nov 28 04:26:08 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-7.gz
+[Mon Nov 28 04:26:08 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-8.gz
+[Mon Nov 28 04:26:09 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-9.gz
+[Mon Nov 28 04:26:15 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-1.gz
+[Mon Nov 28 04:26:15 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-2.gz
+[Mon Nov 28 04:26:15 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-3.gz
+[Mon Nov 28 04:26:15 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-4.gz
+[Mon Nov 28 04:26:16 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-5.gz
+[Mon Nov 28 04:26:16 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-6.gz
+[Mon Nov 28 04:26:16 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-7.gz
+[Mon Nov 28 04:26:16 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-8.gz
+[Mon Nov 28 04:26:17 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-9.gz
+[Mon Nov 28 04:27:09 2016] [error] [client 208.54.83.179] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Nov 28 04:28:40 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-01.gz
+[Mon Nov 28 04:28:41 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-02.gz
+[Mon Nov 28 04:28:41 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-03.gz
+[Mon Nov 28 04:28:41 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-04.gz
+[Mon Nov 28 04:28:41 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-05.gz
+[Mon Nov 28 04:28:41 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-06.gz
+[Mon Nov 28 04:28:42 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-07.gz
+[Mon Nov 28 04:28:42 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-08.gz
+[Mon Nov 28 04:28:42 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-09.gz
+[Mon Nov 28 04:28:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-10.gz
+[Mon Nov 28 04:28:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-11.gz
+[Mon Nov 28 04:28:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-12.gz
+[Mon Nov 28 04:28:43 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-13.gz
+[Mon Nov 28 04:28:44 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-14.gz
+[Mon Nov 28 04:28:44 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-15.gz
+[Mon Nov 28 04:28:44 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-16.gz
+[Mon Nov 28 04:28:57 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-03-05.gz"] [unique_id "WDwjCdBxoAQAAHsjxu4AAAAC"]
+[Mon Nov 28 04:28:58 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-08.gz
+[Mon Nov 28 04:29:14 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-05-09.gz"] [unique_id "WDwjGtBxoAQAAHsjxvcAAAAC"]
+[Mon Nov 28 04:29:28 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-07-02.gz"] [unique_id "WDwjKNBxoAQAAHe1azkAAAAE"]
+[Mon Nov 28 04:29:44 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-09-01.gz"] [unique_id "WDwjONBxoAQAAHlpl1cAAAAB"]
+[Mon Nov 28 04:29:47 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-09-13.gz"] [unique_id "WDwjO9BxoAQAAHsjxwoAAAAC"]
+[Mon Nov 28 04:29:48 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-09-18.gz"] [unique_id "WDwjPNBxoAQAAHe1a0MAAAAE"]
+[Mon Nov 28 04:29:57 2016] [error] [client 193.204.246.14] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2015-10-21.gz"] [unique_id "WDwjRdBxoAQAAH0L@ioAAAAD"]
+[Mon Nov 28 05:43:45 2016] [error] [client 97.85.53.55] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Nov 28 08:33:25 2016] [error] [client 77.88.47.27] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/robots.txt"] [unique_id "WDxcVdBxoAQAAFjCTkIAAAAL"]
+[Mon Nov 28 09:25:02 2016] [error] [client 69.30.198.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Nov 28 09:25:04 2016] [error] [client 69.30.198.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Nov 28 09:25:06 2016] [error] [client 69.30.198.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Nov 28 09:25:07 2016] [error] [client 69.30.198.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Nov 28 09:29:33 2016] [error] [client 188.165.29.82] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/index.html"] [unique_id "WDxpfdBxoAQAAFRdE@oAAAAN"]
+[Mon Nov 28 10:40:03 2016] [error] [client 54.165.241.61] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Mon Nov 28 11:14:31 2016] [error] [client 157.55.39.31] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Mon Nov 28 12:41:15 2016] [error] [client 69.84.207.250] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW - 2014.ipynb"] [unique_id "WDyWa9BxoAQAAH4Wau4AAAAG"]
+[Mon Nov 28 12:41:15 2016] [error] [client 69.84.207.250] File does not exist: /home/sooshie/secrepo.com/\\"http:
+[Mon Nov 28 12:41:19 2016] [error] [client 69.84.207.250] File does not exist: /home/sooshie/secrepo.com/\\"https:
+[Mon Nov 28 12:41:19 2016] [error] [client 69.84.207.250] File does not exist: /home/sooshie/secrepo.com/\\"https:
+[Mon Nov 28 12:41:20 2016] [error] [client 69.84.207.250] File does not exist: /home/sooshie/secrepo.com/\\"http:
+[Mon Nov 28 12:41:20 2016] [error] [client 69.84.207.250] File does not exist: /home/sooshie/secrepo.com/data
+[Mon Nov 28 15:16:23 2016] [error] [client 2.30.245.207] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Nov 28 15:16:23 2016] [error] [client 2.30.245.207] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Nov 28 15:16:28 2016] [error] [client 2.30.245.207] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Nov 28 15:16:29 2016] [error] [client 2.30.245.207] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Nov 28 18:11:02 2016] [error] [client 138.197.25.148] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Mon Nov 28 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-26.gz
+[Mon Nov 28 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-27.gz
+[Mon Nov 28 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-28.gz
+[Mon Nov 28 20:46:39 2016] [error] [client 173.35.90.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 29 00:21:37 2016] [error] [client 85.237.234.23] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 29 00:24:47 2016] [error] [client 85.237.234.23] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 29 02:06:10 2016] [error] [client 107.178.194.30] File does not exist: /home/sooshie/secrepo.com/g

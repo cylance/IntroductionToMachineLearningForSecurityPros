@@ -1,0 +1,20 @@
+[Thu May 12 10:02:28 2016] [error] [client 192.187.109.42] ModSecurity: Access denied with code 418 (phase 1). Pattern match "eval\\\\(base64_decode\\\\(" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "75"] [id "1990012"] [msg "Obfuscated PHP eval() in User-Agent"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "VzS3JNBxoAQAABd9D1sAAAAG"]
+[Thu May 12 10:02:28 2016] [error] [client 192.187.109.42] ModSecurity: Access denied with code 418 (phase 1). Pattern match "eval\\\\(base64_decode\\\\(" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "75"] [id "1990012"] [msg "Obfuscated PHP eval() in User-Agent"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "VzS3JNBxoAQAAEa1tnkAAAAL"]
+[Thu May 12 10:56:27 2016] [error] [client 97.105.165.218] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu May 12 12:17:39 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu May 12 12:17:40 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu May 12 12:17:40 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu May 12 12:17:40 2016] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu May 12 15:28:17 2016] [error] [client 201.29.181.71] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu May 12 15:31:06 2016] [error] [client 201.29.181.71] File does not exist: /home/sooshie/secrepo.com/zeus
+[Thu May 12 15:56:11 2016] [error] [client 173.230.60.16] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot'A=0, referer: http://www.secrepo.com/honeypot/Honeypot'A=0
+[Thu May 12 15:56:16 2016] [error] [client 173.230.60.16] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot'A=0, referer: http://www.secrepo.com/honeypot/Honeypot'A=0
+[Thu May 12 16:10:00 2016] [error] [client 173.230.60.16] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot'A=0, referer: http://www.secrepo.com/honeypot/Honeypot'A=0
+[Thu May 12 16:10:08 2016] [error] [client 173.230.60.16] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot'A=0, referer: http://www.secrepo.com/honeypot/Honeypot'A=0
+[Thu May 12 18:36:07 2016] [error] [client 222.130.169.80] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu May 12 18:36:07 2016] [error] [client 222.130.169.80] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu May 12 18:36:07 2016] [error] [client 222.130.169.80] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu May 12 18:36:07 2016] [error] [client 222.130.169.80] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu May 12 19:48:52 2016] [error] [client 188.34.239.167] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com/
+[Thu May 12 21:12:02 2016] [error] [client 91.200.12.141] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Thu May 12 21:28:10 2016] [error] [client 91.200.12.141] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=

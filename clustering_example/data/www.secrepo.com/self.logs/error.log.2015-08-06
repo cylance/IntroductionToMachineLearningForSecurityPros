@@ -1,0 +1,14 @@
+[Thu Aug 06 04:27:43 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Thu Aug 06 11:03:41 2015] [error] [client 68.98.75.197] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Thu Aug 06 11:16:02 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/honeypot/forums, referer: http://www.secrepo.com/honeypot/
+[Thu Aug 06 11:16:23 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/honeypot/register, referer: http://www.secrepo.com/honeypot/
+[Thu Aug 06 11:16:59 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/honeypot/registration_rules.asp, referer: http://www.secrepo.com/honeypot/registration_rules.asp?FID=0
+[Thu Aug 06 11:17:09 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/honeypot/guestadd.asp
+[Thu Aug 06 11:17:20 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/honeypot/CreateUser.asp, referer: http://www.secrepo.com/honeypot/
+[Thu Aug 06 11:17:23 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/member, referer: http://www.secrepo.com/
+[Thu Aug 06 11:17:35 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/forum, referer: http://www.secrepo.com/
+[Thu Aug 06 11:17:42 2015] [error] [client 113.66.40.168] File does not exist: /home/sooshie/secrepo.com/honeypot/site, referer: http://www.secrepo.com/honeypot/
+[Thu Aug 06 18:28:05 2015] [error] [client 172.98.190.56] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Thu Aug 06 22:36:57 2015] [error] [client 172.98.190.56] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Thu Aug 06 23:29:41 2015] [error] [client 104.144.19.14] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Thu Aug 06 23:29:41 2015] [error] [client 107.152.128.28] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW

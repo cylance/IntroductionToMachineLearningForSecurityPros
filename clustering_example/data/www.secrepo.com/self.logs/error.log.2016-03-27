@@ -1,0 +1,18 @@
+[Sun Mar 27 04:44:46 2016] [error] [client 193.111.140.153] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Mar 27 04:44:48 2016] [error] [client 193.111.140.153] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Mar 27 04:44:50 2016] [error] [client 193.111.140.153] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Mar 27 04:44:52 2016] [error] [client 193.111.140.153] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Mar 27 04:44:53 2016] [error] [client 85.14.244.114] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Mar 27 07:53:25 2016] [error] [client 91.200.12.136] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Mar 27 08:11:19 2016] [error] [client 91.200.12.136] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Mar 27 11:33:52 2016] [error] [client 97.99.84.147] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Mar 27 11:33:52 2016] [error] [client 97.99.84.147] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Mar 27 11:33:53 2016] [error] [client 97.99.84.147] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Mar 27 11:33:53 2016] [error] [client 97.99.84.147] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Mar 27 15:52:34 2016] [error] [client 91.200.12.106] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Mar 27 16:09:00 2016] [error] [client 91.200.12.106] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Mar 27 18:05:52 2016] [error] [client 14.17.18.146] File does not exist: /home/sooshie/secrepo.com/netdna.bootstrapcdn.com, referer: http://www.secrepo.com//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+[Sun Mar 27 18:05:52 2016] [error] [client 14.17.18.146] File does not exist: /home/sooshie/secrepo.com/ajax.googleapis.com, referer: http://www.secrepo.com//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js
+[Sun Mar 27 18:05:52 2016] [error] [client 14.17.18.146] File does not exist: /home/sooshie/secrepo.com/html5shim.googlecode.com, referer: http://www.secrepo.com//html5shim.googlecode.com/svn/trunk/html5.js
+[Sun Mar 27 20:15:41 2016] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun Mar 27 20:32:15 2016] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb

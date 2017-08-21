@@ -1,0 +1,48 @@
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-17.gz
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-18.gz
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-19.gz
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-20.gz
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-21.gz
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-22.gz
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-23.gz
+[Tue Jun 20 02:23:01 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-24.gz
+[Tue Jun 20 02:23:02 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-25.gz
+[Tue Jun 20 02:23:02 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-26.gz
+[Tue Jun 20 02:23:02 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-27.gz
+[Tue Jun 20 02:23:02 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-28.gz
+[Tue Jun 20 02:23:02 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-29.gz
+[Tue Jun 20 02:23:02 2017] [error] [client 74.216.109.222] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-30.gz
+[Tue Jun 20 06:43:55 2017] [error] [client 52.36.251.200] File does not exist: /home/sooshie/secrepo.com/\\"http:
+[Tue Jun 20 06:43:59 2017] [error] [client 52.36.251.200] File does not exist: /home/sooshie/secrepo.com/\\"https:
+[Tue Jun 20 06:43:59 2017] [error] [client 52.36.251.200] File does not exist: /home/sooshie/secrepo.com/\\"https:
+[Tue Jun 20 06:43:59 2017] [error] [client 52.36.251.200] File does not exist: /home/sooshie/secrepo.com/\\"http:
+[Tue Jun 20 06:43:59 2017] [error] [client 52.36.251.200] File does not exist: /home/sooshie/secrepo.com/data
+[Tue Jun 20 07:17:08 2017] [error] [client 134.240.20.239] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Tue Jun 20 08:13:39 2017] [error] [client 130.20.105.43] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jun 20 08:13:39 2017] [error] [client 130.20.105.43] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jun 20 08:59:36 2017] [error] [client 174.70.60.128] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jun 20 08:59:36 2017] [error] [client 174.70.60.128] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jun 20 09:32:15 2017] [error] [client 216.244.86.114] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/upgrade/theme-compat/popup-pomo.php
+[Tue Jun 20 09:41:26 2017] [error] [client 134.240.20.188] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Tue Jun 20 12:42:09 2017] [error] [client 81.37.67.209] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jun 20 12:42:09 2017] [error] [client 81.37.67.209] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jun 20 12:42:10 2017] [error] [client 81.37.67.209] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jun 20 12:42:10 2017] [error] [client 81.37.67.209] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jun 20 14:09:39 2017] [error] [client 17.150.213.144] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jun 20 14:09:40 2017] [error] [client 17.150.213.144] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jun 20 14:09:40 2017] [error] [client 17.150.213.144] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jun 20 14:09:40 2017] [error] [client 17.150.213.144] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jun 20 15:08:32 2017] [error] [client 207.46.13.129] File does not exist: /home/sooshie/secrepo.com/data
+[Tue Jun 20 18:29:37 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Tue Jun 20 18:29:38 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Tue Jun 20 18:29:38 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Tue Jun 20 19:17:06 2017] [error] [client 113.251.175.59] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Jun 20 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-18.gz
+[Tue Jun 20 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-19.gz
+[Tue Jun 20 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-20.gz
+[Tue Jun 20 20:37:43 2017] [error] [client 179.61.178.143] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Austin., referer: http://www.secrepo.com/
+[Tue Jun 20 20:37:44 2017] [error] [client 179.61.178.143] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Austin., referer: http://www.secrepo.com/
+[Tue Jun 20 20:56:12 2017] [error] [client 113.251.175.59] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Jun 20 20:56:23 2017] [error] [client 113.251.175.59] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Jun 20 21:13:38 2017] [error] [client 113.251.175.59] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Jun 20 23:28:58 2017] [error] [client 45.55.128.239] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com

@@ -1,0 +1,17 @@
+[Mon Oct 19 02:38:39 2015] [error] [client 24.220.5.235] File does not exist: /home/sooshie/secrepo.com/data
+[Mon Oct 19 07:48:02 2015] [error] [client 193.140.89.100] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Mon Oct 19 09:16:08 2015] [error] [client 69.58.178.58] File does not exist: /home/sooshie/secrepo.com/data
+[Mon Oct 19 13:55:06 2015] [error] [client 183.206.166.17] File does not exist: /home/sooshie/secrepo.com/admin
+[Mon Oct 19 14:37:11 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Oct 19 14:37:11 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Oct 19 16:30:36 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Oct 19 16:30:37 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Oct 19 20:22:54 2015] [error] [client 175.44.4.172] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot, referer: http://www.secrepo.com/honeypot/honeypot
+[Mon Oct 19 20:43:48 2015] [error] [client 180.171.221.65] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Mon Oct 19 20:44:27 2015] [error] [client 180.171.221.65] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/zeus
+[Mon Oct 19 20:44:28 2015] [error] [client 180.171.221.65] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/zeus
+[Mon Oct 19 20:44:56 2015] [error] [client 180.171.221.65] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/zeus
+[Mon Oct 19 20:44:57 2015] [error] [client 180.171.221.65] File does not exist: /home/sooshie/secrepo.com/zeus
+[Mon Oct 19 20:44:58 2015] [error] [client 180.171.221.65] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/zeus
+[Mon Oct 19 23:04:48 2015] [error] [client 119.84.110.109] File does not exist: /home/sooshie/secrepo.com/zeus
+[Mon Oct 19 23:04:52 2015] [error] [client 119.84.110.109] File does not exist: /home/sooshie/secrepo.com/zeus

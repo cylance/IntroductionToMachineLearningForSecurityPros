@@ -1,0 +1,20 @@
+[Sun Sep 25 10:25:03 2016] [error] [client 36.84.0.1] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.google.com/q?=foobar
+[Sun Sep 25 10:25:03 2016] [error] [client 36.84.0.1] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.google.com/q?=foobar
+[Sun Sep 25 13:54:00 2016] [error] [client 95.221.198.6] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://yandex.ru/clck/jsredir?from=yandex.ru%3Bsearch%3Bweb%3B%3B&text=&etext=1189.tQZsoe6_ey9geG8QCJiax5Z5qb4nAh442F9HLMfvN52UL8930lpq4L-K3LYrqdN3.c0a13441e02e5d1cf06f618bd03cb6f9e9322631&uuid=&state=_BLhILn4SxNIvvL0W45KSic66uCIg23qh8iRG98qeIXmeppkgUc0YFUVNhHyyhJgRFg5yeLMIWU&data=UlNrNmk5WktYejR0eWJFYk1LdmtxdFVvX2JPZzkyaEU2WFNsdVNGUmVZbXpKbEI2YlB6VnVsV0ItaFZrdm01U1BsdnNMcGtDSG5kSElIZnJLci1uemRlTzhHeHBlaVNzZ0dJUnYtR2pfQm91aU84amhpdHR4X1BZT29iVG51WDI&b64e=2&sign=03e18457be438515d5cc1c8e06b8bba8&keyno=0&cst=AiuY0DBWFJ7IXge4WdYJQYpgPUyh7uQluX1mCBL0joUXWf1idLCKI9bYA95ZVqlX_j8lebQ3FS0CE37N_PAi3DNRSYHLUipgTgs8jjHERlqaJ0lieBA9WzQJf30YlAUdd7SGK9LZn8vFT2VcwwA0ZloXBcoF0I0d&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kp5uQozpMtKCVLVIUOk4qiEAAd0OstamDHUt8VoIAicowfifnghzRTppxTYHDEixh4iykIs9QOcS06l4AssWYoIQ&l10n=ru&cts=1474835075483&mc=4.44906845697
+[Sun Sep 25 14:38:57 2016] [error] [client 98.193.182.213] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Sep 25 15:27:09 2016] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 25 15:27:09 2016] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 25 15:27:09 2016] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 25 15:27:09 2016] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 25 18:31:04 2016] [error] [client 36.110.119.51] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 25 18:31:04 2016] [error] [client 36.110.119.51] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 25 18:31:05 2016] [error] [client 36.110.119.51] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 25 18:31:06 2016] [error] [client 36.110.119.51] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 25 18:34:20 2016] [error] [client 128.164.227.82] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Sep 25 18:34:26 2016] [error] [client 128.164.227.82] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Sep 25 18:34:40 2016] [error] [client 128.164.227.82] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Sep 25 21:58:31 2016] [error] [client 208.90.57.196] File does not exist: /home/sooshie/secrepo.com/zeus
+[Mon Sep 26 00:30:12 2016] [error] [client 103.31.25.11] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Mon Sep 26 00:30:29 2016] [error] [client 103.31.25.11] File does not exist: /home/sooshie/secrepo.com/zeus
+[Mon Sep 26 01:54:28 2016] [error] [client 91.238.82.236] File does not exist: /home/sooshie/secrepo.com/.quantserve.com
+[Mon Sep 26 01:54:47 2016] [error] [client 91.238.82.236] File does not exist: /home/sooshie/secrepo.com/data

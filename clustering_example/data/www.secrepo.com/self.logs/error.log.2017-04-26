@@ -1,0 +1,20 @@
+[Wed Apr 26 02:20:16 2017] [error] [client 171.217.52.186] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed Apr 26 04:53:04 2017] [error] [client 117.68.231.113] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot, referer: http://www.secrepo.com/honeypot/honeypot
+[Wed Apr 26 05:21:30 2017] [error] [client 146.185.24.134] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Wed Apr 26 08:52:06 2017] [error] [client 66.249.64.191] File does not exist: /home/sooshie/secrepo.com/data
+[Wed Apr 26 12:04:00 2017] [error] [client 76.17.122.49] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Apr 26 13:41:29 2017] [error] [client 213.37.234.40] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Apr 26 14:52:39 2017] [error] [client 183.160.240.123] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Wed Apr 26 15:09:09 2017] [error] [client 213.37.234.40] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Apr 26 15:40:48 2017] [error] [client 104.199.10.118] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Aust, referer: http://www.secrepo.com/
+[Wed Apr 26 15:40:48 2017] [error] [client 104.199.10.118] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto - BSides Aust, referer: http://www.secrepo.com/
+[Wed Apr 26 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-04-24.gz
+[Wed Apr 26 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-04-25.gz
+[Wed Apr 26 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-04-26.gz
+[Wed Apr 26 21:00:58 2017] [error] [client 120.76.142.22] File does not exist: /home/sooshie/secrepo.com/hjqoinstall
+[Wed Apr 26 21:00:59 2017] [error] [client 120.76.142.22] File does not exist: /home/sooshie/secrepo.com/install
+[Wed Apr 26 21:00:59 2017] [error] [client 120.76.142.22] File does not exist: /home/sooshie/secrepo.com/install
+[Wed Apr 26 21:01:00 2017] [error] [client 120.76.142.22] File does not exist: /home/sooshie/secrepo.com/goqoplus
+[Wed Apr 26 21:01:01 2017] [error] [client 120.76.142.22] File does not exist: /home/sooshie/secrepo.com/plus
+[Wed Apr 26 21:01:02 2017] [error] [client 120.76.142.22] File does not exist: /home/sooshie/secrepo.com/plus
+[Thu Apr 27 00:48:33 2017] [error] [client 86.133.84.163] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/

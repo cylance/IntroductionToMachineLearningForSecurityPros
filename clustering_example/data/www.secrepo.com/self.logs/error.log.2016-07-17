@@ -1,0 +1,25 @@
+[Sun Jul 17 03:30:53 2016] [error] [client 54.159.188.79] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Jul 17 10:25:48 2016] [error] [client 223.240.57.97] File does not exist: /home/sooshie/secrepo.com/access.log.2015-01-28.gz
+[Sun Jul 17 12:17:09 2016] [error] [client 223.240.57.97] File does not exist: /home/sooshie/secrepo.com/access.log.2015-02-01.gz
+[Sun Jul 17 12:46:52 2016] [error] [client 77.75.77.54] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Jul 17 15:19:59 2016] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Jul 17 15:36:50 2016] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Jul 17 18:57:54 2016] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Jul 17 19:00:48 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/blog
+[Sun Jul 17 19:00:48 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/blog
+[Sun Jul 17 19:00:48 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Sun Jul 17 19:00:48 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/wp
+[Sun Jul 17 19:00:48 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sun Jul 17 19:00:49 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/blog
+[Sun Jul 17 19:00:49 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/blog
+[Sun Jul 17 19:00:49 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/joomla
+[Sun Jul 17 19:00:49 2016] [error] [client 46.119.127.129] File does not exist: /home/sooshie/secrepo.com/joomla
+[Sun Jul 17 19:14:24 2016] [error] [client 91.200.12.143] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot+-+Howto.pdf, referer: http://www.secrepo.com/honeypot/Honeypot+-+Howto.pdf#search=
+[Sun Jul 17 20:12:35 2016] [error] [client 223.240.57.97] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw - 2014.ipynb
+[Sun Jul 17 23:15:16 2016] [error] [client 188.72.127.51] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com
+[Sun Jul 17 23:15:17 2016] [error] [client 188.72.127.51] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com
+[Sun Jul 17 23:15:18 2016] [error] [client 188.72.127.51] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com
+[Sun Jul 17 23:15:19 2016] [error] [client 188.72.127.51] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com
+[Mon Jul 18 00:38:29 2016] [error] [client 180.153.214.197] File does not exist: /home/sooshie/secrepo.com/ajax.googleapis.com, referer: http://www.secrepo.com//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js
+[Mon Jul 18 00:38:29 2016] [error] [client 180.153.214.197] File does not exist: /home/sooshie/secrepo.com/netdna.bootstrapcdn.com, referer: http://www.secrepo.com//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+[Mon Jul 18 00:38:29 2016] [error] [client 180.153.214.197] File does not exist: /home/sooshie/secrepo.com/html5shim.googlecode.com, referer: http://www.secrepo.com//html5shim.googlecode.com/svn/trunk/html5.js

@@ -1,0 +1,72 @@
+[Mon Jan 19 04:23:01 2015] [error] [client 68.180.228.46] File does not exist: /home/sooshie/secrepo.com/robots.txt
+[Mon Jan 19 04:23:01 2015] [error] [client 68.180.228.46] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 06:33:43 2015] [error] [client 104.130.161.37] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Jan 19 06:33:43 2015] [error] [client 104.130.161.37] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 06:36:00 2015] [error] [client 162.197.24.67] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 06:36:00 2015] [error] [client 162.197.24.67] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 08:47:06 2015] [error] [client 66.249.67.151] File does not exist: /home/sooshie/secrepo.com/robots.txt
+[Mon Jan 19 08:47:06 2015] [error] [client 66.249.67.151] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 09:41:06 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 09:41:06 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 09:41:06 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 09:41:06 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 09:41:06 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 09:41:06 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 09:41:07 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 09:41:07 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 09:57:16 2015] [error] [client 107.128.42.12] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 09:57:16 2015] [error] [client 107.128.42.12] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 09:57:21 2015] [error] [client 107.128.42.12] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 09:57:21 2015] [error] [client 107.128.42.12] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 10:11:55 2015] [error] [client 38.100.136.34] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 10:11:55 2015] [error] [client 38.100.136.34] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 11:19:24 2015] [error] [client 78.245.91.140] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 11:46:39 2015] [error] [client 66.249.67.159] File does not exist: /home/sooshie/secrepo.com/robots.txt
+[Mon Jan 19 11:46:39 2015] [error] [client 66.249.67.159] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 12:22:57 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 12:22:57 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 12:26:45 2015] [error] [client 87.98.249.39] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 12:26:45 2015] [error] [client 87.98.249.39] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 13:40:55 2015] [error] [client 69.171.230.115] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw - 2014.ipynb
+[Mon Jan 19 13:40:55 2015] [error] [client 69.171.230.115] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 13:40:55 2015] [error] [client 207.241.226.216] File does not exist: /home/sooshie/secrepo.com/robots.txt
+[Mon Jan 19 13:40:55 2015] [error] [client 207.241.226.216] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 13:40:55 2015] [error] [client 207.241.226.216] File does not exist: /home/sooshie/secrepo.com/robots.txt
+[Mon Jan 19 13:40:55 2015] [error] [client 207.241.226.216] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 13:40:57 2015] [error] [client 78.111.187.151] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw - 2014.ipynb
+[Mon Jan 19 13:40:57 2015] [error] [client 78.111.187.151] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 14:17:29 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 14:17:29 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 16:11:03 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 16:11:03 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 17:47:41 2015] [error] [client 87.98.249.39] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 17:47:41 2015] [error] [client 87.98.249.39] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 18:10:45 2015] [error] [client 162.197.24.67] (13)Permission denied: file permissions deny server access: /home/sooshie/secrepo.com/auth.log/auth.log.gz
+[Mon Jan 19 18:10:45 2015] [error] [client 162.197.24.67] File does not exist: /home/sooshie/secrepo.com/forbidden.html
+[Mon Jan 19 18:35:27 2015] [error] [client 98.240.36.109] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 18:35:27 2015] [error] [client 98.240.36.109] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 18:35:27 2015] [error] [client 98.240.36.109] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 18:35:27 2015] [error] [client 98.240.36.109] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 20:08:16 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 20:08:16 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 20:31:54 2015] [error] [client 174.21.103.243] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 20:31:54 2015] [error] [client 174.21.103.243] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 20:31:54 2015] [error] [client 174.21.103.243] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Mon Jan 19 20:31:54 2015] [error] [client 174.21.103.243] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Mon Jan 19 22:10:45 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 22:10:45 2015] [error] [client 94.23.150.70] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Mon Jan 19 23:42:08 2015] [error] [client 104.130.161.38] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Jan 19 23:42:08 2015] [error] [client 104.130.161.38] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Tue Jan 20 00:15:29 2015] [error] [client 94.228.15.164] File does not exist: /home/sooshie/secrepo.com/bootstrap
+[Tue Jan 20 00:15:29 2015] [error] [client 94.228.15.164] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Tue Jan 20 00:20:32 2015] [error] [client 194.153.113.7] File does not exist: /home/sooshie/secrepo.com/robots.txt
+[Tue Jan 20 00:20:32 2015] [error] [client 194.153.113.7] File does not exist: /home/sooshie/secrepo.com/missing.html
+[Tue Jan 20 01:05:23 2015] [error] [client 198.204.252.211] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Tue Jan 20 01:05:23 2015] [error] [client 198.204.252.211] File does not exist: /home/sooshie/secrepo.com/missing.html, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb

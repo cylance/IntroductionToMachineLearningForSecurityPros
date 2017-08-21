@@ -1,0 +1,40 @@
+[Wed Jan 20 06:17:02 2016] [error] [client 46.4.116.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jan 20 06:17:06 2016] [error] [client 46.4.116.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jan 20 06:17:08 2016] [error] [client 46.4.116.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Wed Jan 20 06:17:12 2016] [error] [client 46.4.116.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Jan 20 06:17:15 2016] [error] [client 46.4.116.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Jan 20 08:21:27 2016] [error] [client 31.173.84.72] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 08:21:27 2016] [error] [client 31.173.84.72] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 08:21:27 2016] [error] [client 31.173.84.72] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 08:21:27 2016] [error] [client 31.173.84.72] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 10:56:34 2016] [error] [client 94.65.95.114] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/RK=0/RS=TD406ehX3yUeN2JQRYwOclZ1C_E-, referer: http://www.secrepo.com/
+[Wed Jan 20 11:28:47 2016] [error] [client 208.81.212.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 11:28:47 2016] [error] [client 208.81.212.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 11:28:47 2016] [error] [client 208.81.212.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 11:28:47 2016] [error] [client 208.81.212.222] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 15:30:12 2016] [error] [client 50.200.196.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 15:30:13 2016] [error] [client 50.200.196.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 15:30:13 2016] [error] [client 50.200.196.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 15:30:13 2016] [error] [client 50.200.196.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 20:16:30 2016] [error] [client 122.167.82.84] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 20:16:31 2016] [error] [client 122.167.82.84] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 20:16:31 2016] [error] [client 122.167.82.84] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Jan 20 20:16:31 2016] [error] [client 122.167.82.84] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Jan 20 21:31:19 2016] [error] [client 89.165.94.140] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Wed Jan 20 21:31:20 2016] [error] [client 89.165.94.140] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Wed Jan 20 21:31:20 2016] [error] [client 89.165.94.140] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Wed Jan 20 21:38:31 2016] [error] [client 89.165.94.140] File does not exist: /home/sooshie/secrepo.com/zeus
+[Wed Jan 20 21:38:32 2016] [error] [client 89.165.94.140] File does not exist: /home/sooshie/secrepo.com/zeus
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/fckeditor, referer: http://www.secrepo.com/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/admin, referer: http://www.secrepo.com/admin/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/admin_manage, referer: http://www.secrepo.com/admin_manage/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/web_manage, referer: http://www.secrepo.com/web_manage/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/manager, referer: http://www.secrepo.com/manager/FCKeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/admin, referer: http://www.secrepo.com/admin/manager/Fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/public, referer: http://www.secrepo.com/public/js/manager/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/js, referer: http://www.secrepo.com/js/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/include, referer: http://www.secrepo.com/include/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/files, referer: http://www.secrepo.com/files/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/admin2, referer: http://www.secrepo.com/admin2/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/plugins/fckeditor_for_wordpress/fckeditor
+[Thu Jan 21 01:34:30 2016] [error] [client 45.35.106.90] File does not exist: /home/sooshie/secrepo.com/common, referer: http://www.secrepo.com/common/fckeditor

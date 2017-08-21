@@ -1,0 +1,16 @@
+[Sun Sep 13 03:06:32 2015] [error] [client 46.209.63.146] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Sun Sep 13 05:32:54 2015] [error] [client 216.107.155.114] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Sep 13 05:32:55 2015] [error] [client 216.107.155.114] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Sep 13 05:32:56 2015] [error] [client 216.107.155.114] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Sep 13 05:32:58 2015] [error] [client 216.107.155.114] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Sep 13 11:19:45 2015] [error] [client 68.180.229.162] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Sep 13 15:57:32 2015] [error] [client 46.4.116.197] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Sep 13 18:49:35 2015] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 13 18:49:35 2015] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 13 21:40:53 2015] [error] [client 142.4.106.213] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Sun Sep 13 22:48:58 2015] [error] [client 172.102.222.41] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Mon Sep 14 00:49:00 2015] [error] [client 193.140.89.100] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Mon Sep 14 01:47:04 2015] [error] [client 107.172.6.61] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Mon Sep 14 01:47:04 2015] [error] [client 107.172.6.61] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Mon Sep 14 01:47:30 2015] [error] [client 107.172.6.145] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Mon Sep 14 01:47:30 2015] [error] [client 107.172.6.145] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com

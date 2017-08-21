@@ -1,0 +1,33 @@
+[Tue Jan 17 03:29:32 2017] [error] [client 2.29.112.205] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jan 17 03:29:32 2017] [error] [client 2.29.112.205] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jan 17 05:28:46 2017] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jan 17 05:28:46 2017] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jan 17 05:28:46 2017] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jan 17 05:28:46 2017] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jan 17 05:41:32 2017] [error] [client 151.80.31.150] File does not exist: /home/sooshie/secrepo.com/data
+[Tue Jan 17 05:58:49 2017] [error] [client 86.150.194.226] File does not exist: /home/sooshie/secrepo.com/images, referer: http://www.secrepo.com/
+[Tue Jan 17 05:58:49 2017] [error] [client 86.150.194.226] File does not exist: /home/sooshie/secrepo.com/images, referer: http://www.secrepo.com/
+[Tue Jan 17 05:58:49 2017] [error] [client 86.150.194.226] File does not exist: /home/sooshie/secrepo.com/images, referer: http://www.secrepo.com/
+[Tue Jan 17 12:07:26 2017] [error] [client 61.135.217.72] File does not exist: /home/sooshie/secrepo.com/data
+[Tue Jan 17 13:05:58 2017] [error] [client 40.77.167.74] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Tue Jan 17 13:05:59 2017] [error] [client 40.77.167.74] File does not exist: /home/sooshie/secrepo.com/data
+[Tue Jan 17 14:13:00 2017] [error] [client 54.90.223.77] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.google.com
+[Tue Jan 17 14:22:01 2017] [error] [client 151.80.31.154] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Tue Jan 17 14:25:18 2017] [error] [client 207.46.13.10] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Tue Jan 17 16:50:33 2017] [error] [client 65.128.19.137] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jan 17 16:50:33 2017] [error] [client 65.128.19.137] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jan 17 16:50:33 2017] [error] [client 65.128.19.137] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jan 17 16:50:33 2017] [error] [client 65.128.19.137] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jan 17 18:25:15 2017] [error] [client 65.128.19.137] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jan 17 18:25:15 2017] [error] [client 65.128.19.137] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jan 17 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-01-15.gz
+[Tue Jan 17 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-01-16.gz
+[Tue Jan 17 18:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-01-17.gz
+[Tue Jan 17 19:33:38 2017] [error] [client 69.250.190.181] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Jan 17 19:33:38 2017] [error] [client 69.250.190.181] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Jan 17 21:20:36 2017] [error] [client 74.118.27.197] File does not exist: /home/sooshie/secrepo.com/maccdc2012/ssh.log.gzl;
+[Tue Jan 17 21:20:36 2017] [error] [client 74.118.27.197] File does not exist: /home/sooshie/secrepo.com/maccdc2012/ssl.log.gz;
+[Tue Jan 17 21:20:36 2017] [error] [client 74.118.27.197] File does not exist: /home/sooshie/secrepo.com/auth.log/auth.log.gz;
+[Tue Jan 17 21:20:56 2017] [error] [client 74.118.27.197] File does not exist: /home/sooshie/secrepo.com/maccdc2012/ssh.log.gz;
+[Tue Jan 17 21:20:56 2017] [error] [client 74.118.27.197] File does not exist: /home/sooshie/secrepo.com/maccdc2012/ssl.log.gz;
+[Tue Jan 17 21:20:57 2017] [error] [client 74.118.27.197] File does not exist: /home/sooshie/secrepo.com/auth.log/auth.log.gz;

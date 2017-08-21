@@ -1,0 +1,18 @@
+[Thu Sep 01 04:47:57 2016] [error] [client 163.172.66.41] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Sep 01 06:34:37 2016] [error] [client 52.90.146.42] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Thu Sep 01 11:08:26 2016] [error] [client 45.55.138.149] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Sep 01 11:39:29 2016] [error] [client 17.228.216.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Sep 01 11:39:29 2016] [error] [client 17.228.216.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Sep 01 11:39:29 2016] [error] [client 17.228.216.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Sep 01 11:39:29 2016] [error] [client 17.228.216.50] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Sep 01 11:58:43 2016] [error] [client 143.85.101.26] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu Sep 01 14:01:37 2016] [error] [client 204.15.48.8] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Sep 01 14:01:37 2016] [error] [client 204.15.48.8] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Sep 01 14:01:37 2016] [error] [client 204.15.48.8] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Sep 01 14:01:37 2016] [error] [client 204.15.48.8] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Sep 01 14:18:50 2016] [error] [client 69.30.210.242] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Sep 01 14:18:53 2016] [error] [client 69.30.210.242] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Sep 01 14:18:57 2016] [error] [client 69.30.210.242] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Sep 01 14:19:03 2016] [error] [client 69.30.210.242] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu Sep 01 14:19:10 2016] [error] [client 69.30.210.242] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Fri Sep 02 00:20:50 2016] [error] [client 125.17.111.180] File does not exist: /home/sooshie/secrepo.com/zeus

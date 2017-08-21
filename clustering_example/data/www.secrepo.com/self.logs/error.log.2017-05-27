@@ -1,0 +1,16 @@
+[Sat May 27 07:12:11 2017] [error] [client 213.136.77.41] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 27 07:12:12 2017] [error] [client 213.136.77.41] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 27 07:12:14 2017] [error] [client 213.136.77.41] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 27 07:12:15 2017] [error] [client 213.136.77.41] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat May 27 07:12:17 2017] [error] [client 213.136.77.41] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat May 27 10:51:19 2017] [error] [client 5.211.38.16] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat May 27 10:51:20 2017] [error] [client 5.211.38.16] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat May 27 10:51:21 2017] [error] [client 5.211.38.16] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat May 27 10:51:23 2017] [error] [client 5.211.38.16] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat May 27 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-25.gz
+[Sat May 27 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-26.gz
+[Sat May 27 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-27.gz
+[Sat May 27 23:52:15 2017] [error] [client 37.47.4.69] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Sat May 27 23:52:15 2017] [error] [client 37.47.4.69] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Sat May 27 23:52:15 2017] [error] [client 37.47.4.69] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat May 27 23:52:15 2017] [error] [client 37.47.4.69] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png

@@ -1,0 +1,11 @@
+[Tue Jan 12 10:55:00 2016] [error] [client 62.210.152.87] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Jan 12 10:55:01 2016] [error] [client 62.210.152.87] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Jan 12 10:55:03 2016] [error] [client 62.210.152.87] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Jan 12 10:55:05 2016] [error] [client 62.210.152.87] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Tue Jan 12 10:55:06 2016] [error] [client 62.210.152.87] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Tue Jan 12 17:16:06 2016] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/data
+[Tue Jan 12 17:16:08 2016] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Jan 12 17:16:09 2016] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Jan 12 17:16:10 2016] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Jan 12 17:16:12 2016] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Wed Jan 13 01:46:33 2016] [error] [client 175.44.9.57] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb

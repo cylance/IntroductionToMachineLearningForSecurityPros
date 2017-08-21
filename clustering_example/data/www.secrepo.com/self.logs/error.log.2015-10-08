@@ -1,0 +1,12 @@
+[Thu Oct 08 02:24:21 2015] [error] [client 202.69.19.83] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Oct 08 06:40:52 2015] [error] [client 91.90.191.135] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Thu Oct 08 06:40:52 2015] [error] [client 91.90.191.135] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Thu Oct 08 07:50:31 2015] [error] [client 114.245.251.199] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Oct 08 07:50:32 2015] [error] [client 114.245.251.199] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Oct 08 07:50:32 2015] [error] [client 114.245.251.199] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Oct 08 07:50:32 2015] [error] [client 114.245.251.199] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Oct 08 11:18:16 2015] [error] [client 27.155.138.190] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot
+[Thu Oct 08 18:38:07 2015] [error] [client 27.155.138.190] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot
+[Thu Oct 08 20:45:00 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Oct 08 20:45:21 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Oct 09 00:24:32 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data

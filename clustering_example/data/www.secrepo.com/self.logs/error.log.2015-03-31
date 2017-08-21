@@ -1,0 +1,37 @@
+[Tue Mar 31 02:02:01 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Tue Mar 31 02:02:04 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Tue Mar 31 02:02:06 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Tue Mar 31 02:02:08 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/bbs/skin/ggambo7002_board/setup.php
+[Tue Mar 31 02:02:08 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/bbs
+[Tue Mar 31 02:02:11 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/bbs
+[Tue Mar 31 02:02:12 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/bbs
+[Tue Mar 31 02:02:14 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/bbs
+[Tue Mar 31 02:02:14 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Tue Mar 31 02:02:16 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Tue Mar 31 02:02:16 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Tue Mar 31 02:02:19 2015] [error] [client 202.154.23.202] File does not exist: /home/sooshie/secrepo.com/honeypot/bbs
+[Tue Mar 31 05:10:49 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/skin/zero_vote/ask_password.php
+[Tue Mar 31 05:10:50 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/skin/zero_vote/ask_password.php
+[Tue Mar 31 05:10:51 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/skin
+[Tue Mar 31 05:10:52 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/skin
+[Tue Mar 31 05:10:53 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/skin
+[Tue Mar 31 05:10:54 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/skin
+[Tue Mar 31 05:11:04 2015] [error] [client 104.130.161.115] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/skin/zero_vote/ask_password.php
+[Tue Mar 31 05:11:05 2015] [error] [client 104.130.161.115] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/skin/zero_vote/ask_password.php
+[Tue Mar 31 05:11:08 2015] [error] [client 104.130.161.115] File does not exist: /home/sooshie/secrepo.com/honeypot/skin
+[Tue Mar 31 05:11:10 2015] [error] [client 104.130.161.114] File does not exist: /home/sooshie/secrepo.com/honeypot/skin
+[Tue Mar 31 05:12:14 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/skin/zero_vote/ask_password.php
+[Tue Mar 31 05:12:15 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/skin/zero_vote/ask_password.php
+[Tue Mar 31 05:12:16 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/skin
+[Tue Mar 31 05:12:17 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/skin
+[Tue Mar 31 05:12:18 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/skin
+[Tue Mar 31 05:12:19 2015] [error] [client 216.246.0.110] File does not exist: /home/sooshie/secrepo.com/honeypot/skin
+[Tue Mar 31 08:38:32 2015] [error] [client 162.243.81.121] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Mar 31 08:50:30 2015] [error] [client 186.225.42.170] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%20-%202014.ipynb"] [unique_id "VRrCRtBxoAQAAHUUft0AAAAL"]
+[Tue Mar 31 08:56:19 2015] [error] [client 186.225.42.170] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%20-%202014.ipynb"] [unique_id "VRrDo9BxoAQAAHqjalsAAAAI"]
+[Tue Mar 31 13:12:15 2015] [error] [client 91.200.12.27] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/honeypot/Honeypot/
+[Tue Mar 31 14:46:34 2015] [error] [client 62.210.180.9] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/honeypot/BSidesDFW
+[Tue Mar 31 19:12:00 2015] [error] [client 192.151.154.82] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Tue Mar 31 19:47:31 2015] [error] [client 150.70.172.231] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW%20-%202014.ipynb
+[Tue Mar 31 21:53:26 2015] [error] [client 67.229.56.226] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Tue Mar 31 23:45:49 2015] [error] [client 138.128.2.235] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/

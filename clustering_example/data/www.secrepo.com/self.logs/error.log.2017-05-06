@@ -1,0 +1,17 @@
+[Sat May 06 07:38:05 2017] [error] [client 77.75.78.161] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Sat May 06 12:58:09 2017] [error] [client 207.46.13.123] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf
+[Sat May 06 13:50:59 2017] [error] [client 119.29.254.123] File does not exist: /home/sooshie/secrepo.com/rdhmphpmyadmin
+[Sat May 06 13:51:00 2017] [error] [client 119.29.254.123] File does not exist: /home/sooshie/secrepo.com/phpmyadmin
+[Sat May 06 13:51:00 2017] [error] [client 119.29.254.123] File does not exist: /home/sooshie/secrepo.com/phpmyadmin
+[Sat May 06 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-04.gz
+[Sat May 06 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-05.gz
+[Sat May 06 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-06.gz
+[Sat May 06 20:46:38 2017] [error] [client 103.60.105.140] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-08.gz
+[Sat May 06 20:49:59 2017] [error] [client 103.60.105.140] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-03-13.gz
+[Sat May 06 20:52:58 2017] [error] [client 52.90.121.46] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Sat May 06 20:53:52 2017] [error] [client 103.60.105.140] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-03-12.gz
+[Sat May 06 20:54:33 2017] [error] [client 103.60.105.140] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-04.gz
+[Sat May 06 20:54:34 2017] [error] [client 103.60.105.140] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-05.gz
+[Sat May 06 20:54:34 2017] [error] [client 103.60.105.140] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-06.gz
+[Sat May 06 21:01:42 2017] [error] [client 5.9.38.51] File does not exist: /home/sooshie/secrepo.com/amish-made.html
+[Sat May 06 21:02:55 2017] [error] [client 5.9.38.51] File does not exist: /home/sooshie/secrepo.com/data

@@ -1,0 +1,18 @@
+[Sat Oct 31 05:31:04 2015] [error] [client 183.206.167.50] File does not exist: /home/sooshie/secrepo.com/js
+[Sat Oct 31 06:35:11 2015] [error] [client 46.4.89.35] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Oct 31 06:35:15 2015] [error] [client 46.4.89.35] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Oct 31 07:12:57 2015] [error] [client 37.187.139.132] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "241"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/Honeypot%20-%20Howto.pdf"] [unique_id "VjTMadBxoAQAACa@INMAAAAS"]
+[Sat Oct 31 11:23:58 2015] [error] [client 64.79.100.32] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data
+[Sat Oct 31 11:24:12 2015] [error] [client 64.79.100.32] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Sat Oct 31 11:24:43 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Oct 31 11:24:43 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Oct 31 11:24:43 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Oct 31 11:24:43 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Oct 31 13:37:01 2015] [error] [client 51.254.131.243] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Oct 31 17:34:58 2015] [error] [client 212.83.131.201] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Oct 31 17:34:58 2015] [error] [client 212.83.131.201] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Oct 31 18:32:03 2015] [error] [client 183.206.167.50] File does not exist: /home/sooshie/secrepo.com/ckeditor
+[Sat Oct 31 20:17:42 2015] [error] [client 51.254.32.77] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Oct 31 20:17:44 2015] [error] [client 51.254.32.77] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Oct 31 20:17:47 2015] [error] [client 51.254.32.77] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Oct 31 20:17:50 2015] [error] [client 51.254.32.77] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:

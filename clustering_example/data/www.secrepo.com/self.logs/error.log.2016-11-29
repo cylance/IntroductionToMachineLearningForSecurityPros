@@ -1,0 +1,22 @@
+[Tue Nov 29 02:10:36 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Nov 29 02:10:36 2016] [error] [client 193.204.246.14] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 29 05:05:05 2016] [error] [client 40.77.167.91] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw - 2014.ipynb
+[Tue Nov 29 06:28:34 2016] [error] [client 195.154.199.145] File does not exist: /home/sooshie/secrepo.com/_file-manager
+[Tue Nov 29 07:06:24 2016] [error] [client 84.52.88.179] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/twitter-icon.png"] [unique_id "WD2ZcNBxoAQAACOkLT8AAAAF"]
+[Tue Nov 29 08:08:38 2016] [error] [client 157.55.39.31] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/error.log.2015-07-19.gz"] [unique_id "WD2oBtBxoAQAAF9jj2EAAAAC"]
+[Tue Nov 29 10:15:37 2016] [error] [client 203.249.127.39] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/index.html"] [unique_id "WD3FydBxoAQAACPtTCIAAAAG"]
+[Tue Nov 29 11:34:55 2016] [error] [client 104.207.146.172] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Tue Nov 29 14:06:05 2016] [error] [client 67.79.115.98] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "secrepo.com"] [uri "/"] [unique_id "WD37zdBxoAQAAAI@mKQAAAAM"]
+[Tue Nov 29 14:31:29 2016] [error] [client 80.111.134.111] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/tg/a.zip"] [unique_id "WD4BvNBxoAQAAEFzfisAAAAF"]
+[Tue Nov 29 14:57:08 2016] [error] [client 52.90.146.42] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Tue Nov 29 16:29:29 2016] [error] [client 112.198.72.35] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/missing.html"] [unique_id "WD4dadBxoAQAAEHonRQAAAAP"]
+[Tue Nov 29 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-27.gz
+[Tue Nov 29 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-28.gz
+[Tue Nov 29 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-29.gz
+[Tue Nov 29 20:10:18 2016] [error] [client 173.66.10.26] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Nov 29 20:10:18 2016] [error] [client 173.66.10.26] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 29 20:10:18 2016] [error] [client 173.66.10.26] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Nov 29 20:10:18 2016] [error] [client 173.66.10.26] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 29 22:55:13 2016] [error] [client 77.131.79.88] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Nov 29 22:55:13 2016] [error] [client 77.131.79.88] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/missing.html"] [unique_id "WD530dBxoAQAADalFMIAAAAL"]
+[Tue Nov 29 23:21:22 2016] [error] [client 157.55.39.31] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/self.logs/access.log.2016-04-29.gz"] [unique_id "WD598tBxoAQAABgiQIoAAAAK"]

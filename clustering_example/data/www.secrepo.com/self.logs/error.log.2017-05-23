@@ -1,0 +1,7 @@
+[Tue May 23 02:37:26 2017] [error] [client 150.70.173.21] File does not exist: /home/sooshie/secrepo.com/http:
+[Tue May 23 06:58:00 2017] [error] [client 54.174.33.17] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Tue May 23 08:27:40 2017] [error] [client 144.51.242.26] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Tue May 23 08:58:57 2017] [error] [client 50.204.214.101] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Tue May 23 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-21.gz
+[Tue May 23 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-22.gz
+[Tue May 23 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-23.gz

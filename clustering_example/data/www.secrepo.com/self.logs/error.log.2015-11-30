@@ -1,0 +1,20 @@
+[Mon Nov 30 11:59:24 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Nov 30 11:59:25 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Nov 30 12:46:45 2015] [error] [client 176.9.10.227] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Nov 30 12:46:47 2015] [error] [client 176.9.10.227] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Nov 30 12:46:48 2015] [error] [client 176.9.10.227] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Nov 30 12:46:50 2015] [error] [client 176.9.10.227] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Nov 30 12:46:51 2015] [error] [client 176.9.10.227] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Nov 30 17:05:01 2015] [error] [client 195.154.226.90] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/
+[Mon Nov 30 18:34:47 2015] [error] [client 202.65.118.28] ModSecurity: collections_remove_stale: Failed deleting collection (name "ip", key "37.8.150.220"): Internal error (specific information not available) [hostname "www.secrepo.com"] [uri "/favicon.ico"] [unique_id "Vl0HRtBxoAQAAGBQvDMAAAAG"]
+[Mon Nov 30 20:12:51 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Nov 30 20:12:52 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Nov 30 20:12:52 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Nov 30 20:12:52 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Nov 30 23:54:18 2015] [error] [client 62.210.162.17] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Nov 30 23:54:19 2015] [error] [client 62.210.162.17] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Nov 30 23:54:19 2015] [error] [client 62.210.162.17] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon Nov 30 23:54:19 2015] [error] [client 62.210.162.17] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Tue Dec 01 01:10:57 2015] [error] [client 69.30.213.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Dec 01 01:10:59 2015] [error] [client 69.30.213.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Dec 01 01:11:00 2015] [error] [client 69.30.213.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:

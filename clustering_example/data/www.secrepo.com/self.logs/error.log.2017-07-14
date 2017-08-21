@@ -1,0 +1,32 @@
+[Fri Jul 14 10:40:16 2017] [error] [client 35.192.112.118] File does not exist: /home/sooshie/secrepo.com/data, referer: http://google.com
+[Fri Jul 14 10:40:50 2017] [error] [client 35.192.112.118] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW%20-%202014.ipynb, referer: http://google.com
+[Fri Jul 14 10:40:51 2017] [error] [client 35.192.112.118] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf, referer: http://google.com
+[Fri Jul 14 10:40:51 2017] [error] [client 35.192.112.118] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto%20-%20BSides%20Austin.pdf, referer: http://google.com
+[Fri Jul 14 10:40:56 2017] [error] [client 34.207.213.117] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Fri Jul 14 11:01:42 2017] [error] [client 62.198.46.172] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Jul 14 11:01:43 2017] [error] [client 62.198.46.172] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Jul 14 11:01:44 2017] [error] [client 62.198.46.172] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Jul 14 11:01:44 2017] [error] [client 62.198.46.172] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Jul 14 11:24:33 2017] [error] [client 104.198.66.137] File does not exist: /home/sooshie/secrepo.com/data, referer: http://google.com
+[Fri Jul 14 11:24:48 2017] [error] [client 104.198.66.137] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW%20-%202014.ipynb, referer: http://google.com
+[Fri Jul 14 11:24:48 2017] [error] [client 104.198.66.137] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf, referer: http://google.com
+[Fri Jul 14 11:24:48 2017] [error] [client 104.198.66.137] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto%20-%20BSides%20Austin.pdf, referer: http://google.com
+[Fri Jul 14 12:11:41 2017] [error] [client 167.114.174.95] File does not exist: /home/sooshie/secrepo.com/sitemap.xml
+[Fri Jul 14 12:11:48 2017] [error] [client 167.114.174.95] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Jul 14 13:22:50 2017] [error] [client 35.192.34.188] File does not exist: /home/sooshie/secrepo.com/data, referer: http://google.com
+[Fri Jul 14 13:23:41 2017] [error] [client 35.192.34.188] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW%20-%202014.ipynb, referer: http://google.com
+[Fri Jul 14 13:23:42 2017] [error] [client 35.192.34.188] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf, referer: http://google.com
+[Fri Jul 14 13:23:42 2017] [error] [client 35.192.34.188] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto%20-%20BSides%20Austin.pdf, referer: http://google.com
+[Fri Jul 14 17:43:25 2017] [error] [client 104.197.219.75] File does not exist: /home/sooshie/secrepo.com/data, referer: http://google.com
+[Fri Jul 14 17:44:33 2017] [error] [client 104.197.219.75] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW%20-%202014.ipynb, referer: http://google.com
+[Fri Jul 14 17:44:34 2017] [error] [client 104.197.219.75] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf, referer: http://google.com
+[Fri Jul 14 17:44:34 2017] [error] [client 104.197.219.75] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto%20-%20BSides%20Austin.pdf, referer: http://google.com
+[Fri Jul 14 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-07-12.gz
+[Fri Jul 14 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-07-13.gz
+[Fri Jul 14 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-07-14.gz
+[Fri Jul 14 21:11:28 2017] [error] [client 138.197.111.184] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com
+[Fri Jul 14 21:57:38 2017] [error] [client 35.192.124.246] File does not exist: /home/sooshie/secrepo.com/data, referer: http://google.com
+[Fri Jul 14 21:58:18 2017] [error] [client 35.192.124.246] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW%20-%202014.ipynb, referer: http://google.com
+[Fri Jul 14 21:58:18 2017] [error] [client 35.192.124.246] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf, referer: http://google.com
+[Fri Jul 14 21:58:18 2017] [error] [client 35.192.124.246] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto%20-%20BSides%20Austin.pdf, referer: http://google.com
+[Fri Jul 14 23:19:03 2017] [error] [client 217.69.133.247] File does not exist: /home/sooshie/secrepo.com/data

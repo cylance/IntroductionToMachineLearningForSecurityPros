@@ -1,5 +1,4 @@
 import numpy as np
-import gzip
 import os
 import re
 import h5py
@@ -17,10 +16,15 @@ def ip2int(addr):
 
 def get_prevectors():
     data_path = "data/www.secrepo.com/self.logs/"
-    prevectors = {}
+    # ensure we get the IPs used in the examples
+    prevectors = {
+        ip2int("192.187.126.162"): {"requests": {}, "responses": {}},
+        ip2int("49.50.76.8"): {"requests": {}, "responses": {}},
+        ip2int("70.32.104.50"): {"requests": {}, "responses": {}},
+    }
     for path in os.listdir(data_path):
         full_path = os.path.join(data_path, path)
-        with gzip.GzipFile(full_path, "r") as f:
+        with open(full_path, "r") as f:
             for line in f:
                 try:
                     ip, request_type, response_code = LOG_REGEX.findall(line)[0]

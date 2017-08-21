@@ -1,0 +1,8 @@
+[Sun Dec 25 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-23.gz
+[Sun Dec 25 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-24.gz
+[Sun Dec 25 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-25.gz
+[Mon Dec 26 01:03:19 2016] [error] [client 103.7.29.7] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Dec 26 01:03:28 2016] [error] [client 101.226.68.200] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Dec 26 01:03:36 2016] [error] [client 180.153.214.199] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Dec 26 01:21:03 2016] [error] [client 211.171.14.186] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Mon Dec 26 01:29:28 2016] [error] [client 103.7.29.7] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip

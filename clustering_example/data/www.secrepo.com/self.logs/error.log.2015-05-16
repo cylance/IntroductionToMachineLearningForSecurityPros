@@ -1,0 +1,14 @@
+[Sat May 16 04:05:00 2015] [error] [client 176.104.37.122] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 16 04:05:03 2015] [error] [client 176.104.37.122] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 16 04:05:05 2015] [error] [client 176.104.37.122] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 16 04:05:08 2015] [error] [client 176.104.37.122] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat May 16 04:05:10 2015] [error] [client 176.104.37.122] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat May 16 11:53:39 2015] [error] [client 86.143.15.5] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 16 11:53:41 2015] [error] [client 86.143.15.5] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 16 11:53:43 2015] [error] [client 86.143.15.5] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat May 16 11:53:45 2015] [error] [client 86.143.15.5] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat May 16 13:30:03 2015] [error] [client 71.187.251.177] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Sat May 16 21:57:30 2015] [error] [client 66.249.65.126] File does not exist: /home/sooshie/secrepo.com/data
+[Sat May 16 23:46:09 2015] [error] [client 123.120.172.157] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat May 16 23:46:33 2015] [error] [client 123.120.172.157] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat May 16 23:46:36 2015] [error] [client 123.120.172.157] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/

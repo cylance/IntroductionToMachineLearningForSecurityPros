@@ -1,0 +1,45 @@
+[Thu Aug 03 03:08:07 2017] [error] [client 103.37.124.176] ModSecurity: Multipart parsing error: Multipart: Nul byte in part headers. [hostname "www.secrepo.com"] [uri "/"] [unique_id "WYL2B9BxoAQAAHYwah0AAAAK"]
+[Thu Aug 03 03:15:11 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Thu Aug 03 04:22:32 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Aug 03 05:32:38 2017] [error] [client 201.18.18.173] File does not exist: /home/sooshie/secrepo.com/wp-includes
+[Thu Aug 03 05:32:38 2017] [error] [client 201.18.18.173] File does not exist: /home/sooshie/secrepo.com/blog
+[Thu Aug 03 05:32:38 2017] [error] [client 201.18.18.173] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Thu Aug 03 05:32:39 2017] [error] [client 201.18.18.173] File does not exist: /home/sooshie/secrepo.com/wp
+[Thu Aug 03 05:32:39 2017] [error] [client 201.18.18.173] File does not exist: /home/sooshie/secrepo.com/site
+[Thu Aug 03 07:57:58 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Thu Aug 03 09:06:12 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Aug 03 11:54:12 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Thu Aug 03 12:00:50 2017] [error] [client 81.36.205.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-152x152-precomposed.png
+[Thu Aug 03 12:00:50 2017] [error] [client 81.36.205.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-152x152.png
+[Thu Aug 03 12:00:51 2017] [error] [client 81.36.205.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 03 12:00:51 2017] [error] [client 81.36.205.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 03 12:14:01 2017] [error] [client 81.36.205.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 03 12:14:01 2017] [error] [client 81.36.205.71] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 03 12:48:37 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Aug 03 14:07:56 2017] [error] [client 138.201.30.66] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Aug 03 15:21:56 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Thu Aug 03 16:18:00 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Aug 03 17:36:46 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 03 17:36:46 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 03 17:36:47 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 03 17:36:47 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 03 19:10:45 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Thu Aug 03 19:25:22 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 03 19:25:22 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 03 19:25:22 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 03 19:25:22 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 03 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-01.gz
+[Thu Aug 03 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-02.gz
+[Thu Aug 03 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-03.gz
+[Thu Aug 03 19:53:18 2017] [error] [client 23.225.168.46] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Aug 03 19:53:18 2017] [error] [client 23.225.168.46] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Aug 03 19:53:18 2017] [error] [client 23.225.168.46] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Aug 03 19:53:18 2017] [error] [client 23.225.168.46] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Aug 03 19:53:18 2017] [error] [client 23.225.168.46] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Aug 03 20:20:19 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Aug 03 23:23:28 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Fri Aug 04 00:34:25 2017] [error] [client 36.57.173.68] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Fri Aug 04 00:57:56 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Aug 04 00:57:56 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Aug 04 00:57:57 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Aug 04 00:57:57 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png

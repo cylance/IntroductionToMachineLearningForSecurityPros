@@ -1,0 +1,4 @@
+[Wed Jan 21 11:27:00 2015] [error] [client 5.63.146.172] File does not exist: /home/sooshie/secrepo.com/admin, referer: http://www.secrepo.com/admin/
+[Wed Jan 21 12:16:41 2015] [error] [client 27.159.217.199] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Wed Jan 21 19:44:15 2015] [error] [client 62.210.91.17] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/trackback/, referer: http://www.secrepo.com/honeypot/Honeypot - Howto.pdf
+[Thu Jan 22 01:20:52 2015] [error] [client 14.147.123.90] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot

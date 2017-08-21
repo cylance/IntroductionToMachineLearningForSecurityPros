@@ -1,0 +1,14 @@
+[Wed Feb 22 04:55:05 2017] [error] [client 46.235.154.92] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-08.gz
+[Wed Feb 22 04:56:12 2017] [error] [client 46.235.158.7] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-03-13.gz
+[Wed Feb 22 04:57:27 2017] [error] [client 46.235.158.7] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-19.gz
+[Wed Feb 22 04:57:27 2017] [error] [client 46.235.158.7] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-20.gz
+[Wed Feb 22 04:57:27 2017] [error] [client 46.235.158.7] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-21.gz
+[Wed Feb 22 05:55:01 2017] [error] [client 182.140.168.114] File does not exist: /home/sooshie/secrepo.com/security-data-analysis, referer: http://down.drvsky.com/mac/xerox_fxdpp158b.zip?101021488778549x1487768332x101021493515283-1a3e5b899233d1dcddfd6fd2244616d2&filetype=.exe&webshielddrsessionverify=jzpnm0yimopmladwc4pj&WebShieldDRSessionVerify=ADlbJkUtIVSpXjkF4Nvn
+[Wed Feb 22 07:25:33 2017] [error] [client 192.169.151.189] File does not exist: /home/sooshie/secrepo.com/cpanel, referer: http://www.google.com
+[Wed Feb 22 12:02:57 2017] [error] [client 128.220.160.158] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Feb 22 12:02:58 2017] [error] [client 128.220.160.158] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Feb 22 14:23:29 2017] [error] [client 163.172.107.12] File does not exist: /home/sooshie/secrepo.com/download, referer: http://www.secrepo.com/download/logo_img.php
+[Wed Feb 22 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-20.gz
+[Wed Feb 22 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-21.gz
+[Wed Feb 22 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-22.gz
+[Wed Feb 22 21:28:37 2017] [error] [client 157.55.39.129] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf

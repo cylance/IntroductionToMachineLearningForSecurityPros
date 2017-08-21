@@ -1,0 +1,43 @@
+[Thu Oct 15 02:41:18 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/dhcp.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/dhcp.log.gz
+[Thu Oct 15 03:00:35 2015] [error] [client 79.246.80.216] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Oct 15 05:32:31 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/weird.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/weird.log.gz
+[Thu Oct 15 07:51:40 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/tunnel.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/tunnel.log.gz
+[Thu Oct 15 08:41:23 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/files.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/files.log.gz
+[Thu Oct 15 09:27:55 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/squid/access.log.gz/trackback/, referer: http://www.secrepo.com/squid/access.log.gz
+[Thu Oct 15 09:45:03 2015] [error] [client 104.193.175.21] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/zboard.php
+[Thu Oct 15 09:46:28 2015] [error] [client 104.193.175.21] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto.pdf/zboard.php
+[Thu Oct 15 10:00:39 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Thu Oct 15 10:00:39 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Thu Oct 15 11:33:13 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Oct 15 12:14:03 2015] [error] [client 94.153.10.149] File does not exist: /home/sooshie/secrepo.com/blog
+[Thu Oct 15 12:14:03 2015] [error] [client 94.153.10.149] File does not exist: /home/sooshie/secrepo.com/blog
+[Thu Oct 15 12:14:03 2015] [error] [client 94.153.10.149] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Thu Oct 15 12:14:04 2015] [error] [client 94.153.10.149] File does not exist: /home/sooshie/secrepo.com/wp
+[Thu Oct 15 12:22:29 2015] [error] [client 180.76.15.12] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Oct 15 12:37:13 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/ftp.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/ftp.log.gz
+[Thu Oct 15 12:38:51 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/blog
+[Thu Oct 15 12:38:51 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/blog
+[Thu Oct 15 12:38:51 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Thu Oct 15 12:38:51 2015] [error] [client 46.118.155.216] File does not exist: /home/sooshie/secrepo.com/wp
+[Thu Oct 15 17:43:28 2015] [error] [client 155.94.194.124] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Thu Oct 15 17:43:37 2015] [error] [client 62.210.124.37] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Thu Oct 15 17:43:46 2015] [error] [client 62.210.124.37] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Thu Oct 15 17:43:46 2015] [error] [client 62.210.124.37] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Thu Oct 15 17:43:54 2015] [error] [client 62.210.124.37] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Thu Oct 15 17:44:01 2015] [error] [client 62.210.124.37] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Thu Oct 15 17:59:35 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/http.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/http.log.gz
+[Thu Oct 15 18:40:28 2015] [error] [client 38.99.252.177] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Oct 15 19:56:01 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/auth.log/auth.log.gz/trackback/, referer: http://www.secrepo.com/auth.log/auth.log.gz
+[Thu Oct 15 20:16:54 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/smtp.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/smtp.log.gz
+[Thu Oct 15 20:31:06 2015] [error] [client 207.244.72.200] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu Oct 15 20:40:23 2015] [error] [client 207.244.72.200] File does not exist: /home/sooshie/secrepo.com/zeus
+[Fri Oct 16 00:26:55 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Fri Oct 16 00:26:55 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Fri Oct 16 00:28:00 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/maccdc2012/ssh.log.gz/trackback/, referer: http://www.secrepo.com/maccdc2012/ssh.log.gz
+[Fri Oct 16 00:35:35 2015] [error] [client 36.34.20.101] File does not exist: /home/sooshie/secrepo.com/self.logs/trackback, referer: http://www.secrepo.com/self.logs/
+[Fri Oct 16 01:02:46 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Oct 16 01:05:50 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Oct 16 02:03:04 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Fri Oct 16 02:03:05 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Fri Oct 16 02:10:47 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Fri Oct 16 02:10:47 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot

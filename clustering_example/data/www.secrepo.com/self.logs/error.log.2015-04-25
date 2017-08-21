@@ -1,0 +1,32 @@
+[Sat Apr 25 02:01:12 2015] [error] [client 104.130.161.114] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 02:06:57 2015] [error] [client 37.9.62.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 02:06:57 2015] [error] [client 37.9.62.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 03:09:43 2015] [error] [client 101.30.232.217] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Sat Apr 25 05:30:47 2015] [error] [client 37.17.224.24] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:Cookie. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "secrepo.com"] [uri "/"] [unique_id "VTuI99BxoAQAAGJO0BIAAAAC"]
+[Sat Apr 25 07:26:41 2015] [error] [client 62.210.180.9] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/honeypot/Honeypot
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/admin
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/admin
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/fck
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/fck
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/fckeditor
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/fckeditor
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/manage
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/manage
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/system
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/system
+[Sat Apr 25 12:33:23 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/manager
+[Sat Apr 25 12:33:24 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/manager
+[Sat Apr 25 12:33:24 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sat Apr 25 12:33:24 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sat Apr 25 12:33:24 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/web
+[Sat Apr 25 12:33:24 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/web
+[Sat Apr 25 12:33:24 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/CKeditor
+[Sat Apr 25 12:33:24 2015] [error] [client 142.4.112.44] File does not exist: /home/sooshie/secrepo.com/CKeditor
+[Sat Apr 25 14:14:15 2015] [error] [client 62.210.180.9] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 19:33:24 2015] [error] [client 104.130.161.117] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 19:33:25 2015] [error] [client 37.9.62.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 19:33:25 2015] [error] [client 37.9.62.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 22:40:02 2015] [error] [client 101.30.232.217] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Sat Apr 25 23:30:20 2015] [error] [client 104.130.161.114] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 23:30:21 2015] [error] [client 37.9.62.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sat Apr 25 23:30:21 2015] [error] [client 37.9.62.74] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW

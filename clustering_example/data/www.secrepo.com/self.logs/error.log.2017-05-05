@@ -1,0 +1,25 @@
+[Fri May 05 02:08:51 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/blog
+[Fri May 05 02:08:51 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/blog
+[Fri May 05 02:08:51 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Fri May 05 02:08:51 2017] [error] [client 178.137.83.79] File does not exist: /home/sooshie/secrepo.com/wp
+[Fri May 05 04:27:42 2017] [error] [client 54.174.33.17] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Fri May 05 05:57:46 2017] [error] [client 198.2.222.60] File does not exist: /home/sooshie/secrepo.com/feed
+[Fri May 05 08:03:18 2017] [error] [client 46.4.71.76] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri May 05 08:03:21 2017] [error] [client 46.4.71.76] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri May 05 08:03:26 2017] [error] [client 46.4.71.76] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Fri May 05 08:04:14 2017] [error] [client 46.4.71.76] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Fri May 05 08:04:28 2017] [error] [client 46.4.71.76] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Fri May 05 09:40:34 2017] [error] [client 101.226.89.123] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot-Howto.pdf, referer: blank
+[Fri May 05 10:14:23 2017] [error] [client 192.88.209.174] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Fri May 05 10:28:23 2017] [error] [client 128.237.28.16] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Fri May 05 14:18:40 2017] [error] [client 107.215.56.253] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Fri May 05 14:19:02 2017] [error] [client 107.215.56.253] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Fri May 05 14:19:44 2017] [error] [client 107.215.56.253] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Fri May 05 14:39:52 2017] [error] [client 93.115.95.216] File does not exist: /home/sooshie/secrepo.com/.ssh
+[Fri May 05 14:39:53 2017] [error] [client 93.115.95.216] File does not exist: /home/sooshie/secrepo.com/id_dsa
+[Fri May 05 14:39:55 2017] [error] [client 93.115.95.216] File does not exist: /home/sooshie/secrepo.com/.ssh
+[Fri May 05 18:24:28 2017] [error] [client 207.46.13.123] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Fri May 05 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-03.gz
+[Fri May 05 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-04.gz
+[Fri May 05 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-05.gz
+[Fri May 05 20:15:18 2017] [error] [client 118.208.51.17] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/

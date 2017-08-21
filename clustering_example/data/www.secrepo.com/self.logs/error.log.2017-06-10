@@ -1,0 +1,25 @@
+[Sat Jun 10 12:33:12 2017] [error] [client 178.113.173.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Jun 10 12:33:12 2017] [error] [client 178.113.173.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Jun 10 12:33:12 2017] [error] [client 178.113.173.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Jun 10 12:33:12 2017] [error] [client 178.113.173.243] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Jun 10 15:26:19 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/"] [unique_id "WTxyC9BxoAQAAAgWDksAAAAI"]
+[Sat Jun 10 15:26:19 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Sat Jun 10 15:26:19 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/"] [unique_id "WTxyC9BxoAQAAEMJfhkAAAAO"]
+[Sat Jun 10 15:26:20 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Sat Jun 10 15:26:20 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/uploadify/uploadify.php"] [unique_id "WTxyDNBxoAQAAC5YUDAAAAAB"]
+[Sat Jun 10 15:26:20 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/uploadify, referer: http://www.secrepo.com/wp-admin/
+[Sat Jun 10 15:26:21 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/uploadify/uploadify.php"] [unique_id "WTxyDdBxoAQAAEMJfh8AAAAO"]
+[Sat Jun 10 15:26:21 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/uploadify, referer: http://www.secrepo.com/wp-admin/
+[Sat Jun 10 15:26:21 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/wp-admin/admin-ajax.php"] [unique_id "WTxyDdBxoAQAAHNKPKYAAAAH"]
+[Sat Jun 10 15:26:21 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-admin/
+[Sat Jun 10 15:26:21 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/wp-admin/admin-ajax.php"] [unique_id "WTxyDdBxoAQAAHNKPKsAAAAH"]
+[Sat Jun 10 15:26:21 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-admin/
+[Sat Jun 10 15:26:21 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/license.php"] [unique_id "WTxyDdBxoAQAAHNJO4MAAAAD"]
+[Sat Jun 10 15:26:22 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/license.php"] [unique_id "WTxyDtBxoAQAACQumREAAAAM"]
+[Sat Jun 10 16:22:02 2017] [error] [client 35.186.148.210] File does not exist: /home/sooshie/secrepo.com/blog
+[Sat Jun 10 16:22:02 2017] [error] [client 35.186.148.210] File does not exist: /home/sooshie/secrepo.com/blog
+[Sat Jun 10 16:22:02 2017] [error] [client 35.186.148.210] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Sat Jun 10 16:22:03 2017] [error] [client 35.186.148.210] File does not exist: /home/sooshie/secrepo.com/wp
+[Sat Jun 10 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-08.gz
+[Sat Jun 10 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-09.gz
+[Sat Jun 10 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-10.gz

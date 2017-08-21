@@ -1,0 +1,21 @@
+[Thu Feb 18 01:40:17 2016] [error] [client 117.6.95.182] File does not exist: /home/sooshie/secrepo.com/zeus
+[Thu Feb 18 06:29:12 2016] [error] [client 157.27.130.67] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu Feb 18 06:34:43 2016] [error] [client 157.27.130.67] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu Feb 18 06:34:46 2016] [error] [client 157.27.130.67] File does not exist: /home/sooshie/secrepo.com/zeus
+[Thu Feb 18 10:43:24 2016] [error] [client 78.131.93.239] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Thu Feb 18 11:54:47 2016] [error] [client 187.45.195.15] ModSecurity: Access denied with code 418 (phase 1). Pattern match "wp-config.php" at ARGS_GET:img. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "272"] [id "1990071"] [msg "wp-config.php Local File Inclusion Attempt"] [hostname "www.secrepo.com"] [uri "/wp-admin/admin-ajax.php"] [unique_id "VsYhh9BxoAQAAH@lFO0AAAAA"]
+[Thu Feb 18 12:10:52 2016] [error] [client 192.254.139.211] File does not exist: /home/sooshie/secrepo.com/phpmyadmin
+[Thu Feb 18 14:55:50 2016] [error] [client 140.117.150.103] File does not exist: /home/sooshie/secrepo.com/joomla
+[Thu Feb 18 14:55:50 2016] [error] [client 140.117.150.103] File does not exist: /home/sooshie/secrepo.com/joomla
+[Thu Feb 18 14:55:50 2016] [error] [client 140.117.150.103] File does not exist: /home/sooshie/secrepo.com/administrator
+[Thu Feb 18 15:19:56 2016] [error] [client 24.23.195.68] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Feb 18 15:19:56 2016] [error] [client 24.23.195.68] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Feb 18 15:19:56 2016] [error] [client 24.23.195.68] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Feb 18 15:19:56 2016] [error] [client 24.23.195.68] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Feb 18 17:03:10 2016] [error] [client 69.58.178.58] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Feb 18 18:43:29 2016] [error] [client 5.9.151.22] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Feb 18 18:43:31 2016] [error] [client 5.9.151.22] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Feb 18 18:43:33 2016] [error] [client 5.9.151.22] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Feb 18 18:43:35 2016] [error] [client 5.9.151.22] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu Feb 18 18:43:37 2016] [error] [client 5.9.151.22] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu Feb 18 22:24:32 2016] [error] [client 180.76.15.26] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf

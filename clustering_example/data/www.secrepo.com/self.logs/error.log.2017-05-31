@@ -1,0 +1,23 @@
+[Wed May 31 05:23:31 2017] [error] [client 73.243.88.57] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 31 05:23:31 2017] [error] [client 73.243.88.57] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 31 05:23:31 2017] [error] [client 73.243.88.57] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 31 05:23:31 2017] [error] [client 73.243.88.57] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 31 09:34:51 2017] [error] [client 17.150.215.150] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 31 09:34:51 2017] [error] [client 17.150.215.150] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 31 09:34:51 2017] [error] [client 17.150.215.150] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed May 31 09:34:51 2017] [error] [client 17.150.215.150] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed May 31 14:09:48 2017] [error] [client 52.90.121.46] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Wed May 31 15:59:37 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/"] [unique_id "WS9K2dBxoAQAADqhZWwAAAAG"]
+[Wed May 31 15:59:37 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Wed May 31 15:59:37 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/uploadify/uploadify.php"] [unique_id "WS9K2dBxoAQAADqhZXEAAAAG"]
+[Wed May 31 15:59:37 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/uploadify, referer: http://www.secrepo.com//wp-admin/
+[Wed May 31 15:59:38 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/wp-admin/admin-ajax.php"] [unique_id "WS9K2tBxoAQAADqhZXQAAAAG"]
+[Wed May 31 15:59:38 2017] [error] [client 192.187.100.58] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com//wp-admin/
+[Wed May 31 15:59:38 2017] [error] [client 192.187.100.58] ModSecurity: Multipart parsing error (init): Multipart: Invalid boundary in C-T (characters). [hostname "www.secrepo.com"] [uri "/license.php"] [unique_id "WS9K2tBxoAQAAGh6i8IAAAAI"]
+[Wed May 31 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-29.gz
+[Wed May 31 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-30.gz
+[Wed May 31 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-05-31.gz
+[Wed May 31 22:34:09 2017] [error] [client 210.132.191.190] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 31 22:34:28 2017] [error] [client 210.132.191.190] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed May 31 23:08:18 2017] [error] [client 207.46.13.109] File does not exist: /home/sooshie/secrepo.com/data
+[Wed May 31 23:08:51 2017] [error] [client 5.9.88.103] File does not exist: /home/sooshie/secrepo.com/&quot

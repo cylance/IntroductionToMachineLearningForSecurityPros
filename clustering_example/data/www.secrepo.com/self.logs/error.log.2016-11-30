@@ -1,0 +1,16 @@
+[Wed Nov 30 10:40:51 2016] [error] [client 152.15.112.69] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/maccdc2012/signatures.log.gz"] [unique_id "WD8dM9BxoAQAAF8GQGwAAAAB"]
+[Wed Nov 30 13:31:18 2016] [error] [client 73.78.65.41] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/index.html"] [unique_id "WD9FJtBxoAQAAC5tEV0AAAAC"]
+[Wed Nov 30 14:02:15 2016] [error] [client 136.160.248.142] ModSecurity: collections_remove_stale: Failed to access DBM file "/run/shm/apache2-vat/ip": No such file or directory [hostname "www.secrepo.com"] [uri "/twitter-icon.png"] [unique_id "WD9MZ9BxoAQAAC5yEusAAAAG"]
+[Wed Nov 30 14:46:54 2016] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Nov 30 14:46:54 2016] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Nov 30 14:46:54 2016] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Nov 30 14:46:54 2016] [error] [client 152.15.112.30] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Nov 30 14:55:09 2016] [error] [client 155.70.39.45] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Wed Nov 30 14:55:09 2016] [error] [client 155.70.39.45] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Wed Nov 30 17:23:37 2016] [error] [client 115.78.132.245] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed Nov 30 17:23:42 2016] [error] [client 115.78.132.245] File does not exist: /home/sooshie/secrepo.com/data
+[Wed Nov 30 17:36:51 2016] [error] [client 115.78.132.245] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed Nov 30 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-28.gz
+[Wed Nov 30 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-29.gz
+[Wed Nov 30 18:30:02 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-30.gz
+[Wed Nov 30 21:06:04 2016] [error] [client 40.77.167.55] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf

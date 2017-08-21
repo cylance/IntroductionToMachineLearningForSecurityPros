@@ -1,0 +1,17 @@
+[Tue Oct 20 02:59:02 2015] [error] [client 119.84.110.109] File does not exist: /home/sooshie/secrepo.com/zeus
+[Tue Oct 20 08:05:59 2015] [error] [client 119.84.110.109] File does not exist: /home/sooshie/secrepo.com/zeus
+[Tue Oct 20 08:07:16 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Tue Oct 20 08:07:17 2015] [error] [client 185.112.248.67] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Tue Oct 20 09:17:11 2015] [error] [client 101.226.33.226] File does not exist: /home/sooshie/secrepo.com/ajax.googleapis.com, referer: http://www.secrepo.com//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js
+[Tue Oct 20 09:17:11 2015] [error] [client 101.226.33.226] File does not exist: /home/sooshie/secrepo.com/netdna.bootstrapcdn.com, referer: http://www.secrepo.com//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+[Tue Oct 20 09:17:11 2015] [error] [client 101.226.33.226] File does not exist: /home/sooshie/secrepo.com/html5shim.googlecode.com, referer: http://www.secrepo.com//html5shim.googlecode.com/svn/trunk/html5.js
+[Tue Oct 20 12:45:41 2015] [error] [client 192.99.2.27] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Oct 20 12:45:43 2015] [error] [client 192.99.2.27] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Oct 20 12:45:48 2015] [error] [client 192.99.2.27] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Tue Oct 20 12:45:51 2015] [error] [client 192.99.2.27] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Tue Oct 20 12:45:56 2015] [error] [client 192.99.2.27] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Tue Oct 20 12:49:21 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Oct 20 12:49:21 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Oct 20 12:49:22 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Oct 20 12:49:22 2015] [error] [client 77.37.130.103] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Oct 20 23:21:32 2015] [error] [client 42.61.41.114] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/

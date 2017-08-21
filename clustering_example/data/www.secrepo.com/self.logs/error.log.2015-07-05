@@ -1,0 +1,18 @@
+[Sun Jul 05 10:08:07 2015] [error] [client 116.212.127.206] ModSecurity: Access denied with code 418 (phase 2). String match "/plus/download.php?open=1&arrs" at REQUEST_LINE. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "217"] [id "1990058"] [hostname "www.secrepo.com"] [uri "/plus/download.php"] [unique_id "VZlkd9BxoAQAAFszhlYAAAAl"]
+[Sun Jul 05 10:08:08 2015] [error] [client 116.212.127.206] ModSecurity: Access denied with code 418 (phase 2). String match "/plus/download.php?open=1&arrs" at REQUEST_LINE. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "217"] [id "1990058"] [hostname "www.secrepo.com"] [uri "/plus/download.php"] [unique_id "VZlkeNBxoAQAAFszhlcAAAAl"]
+[Sun Jul 05 10:08:08 2015] [error] [client 116.212.127.206] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Jul 05 10:08:08 2015] [error] [client 116.212.127.206] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Jul 05 10:08:08 2015] [error] [client 116.212.127.206] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Jul 05 11:16:05 2015] [error] [client 79.182.163.56] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Sun Jul 05 11:16:14 2015] [error] [client 79.182.163.56] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Jul 05 11:16:39 2015] [error] [client 79.182.163.56] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Sun Jul 05 16:27:29 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 05 16:27:30 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 05 16:27:32 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 05 16:27:34 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Jul 05 18:14:10 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 05 18:14:12 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 05 18:14:14 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Jul 05 18:14:15 2015] [error] [client 136.243.5.215] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Jul 05 19:49:55 2015] [error] [client 58.62.235.246] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sun Jul 05 21:22:09 2015] [error] [client 58.62.235.246] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW

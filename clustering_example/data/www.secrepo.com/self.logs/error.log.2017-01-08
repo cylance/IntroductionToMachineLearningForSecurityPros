@@ -1,0 +1,80 @@
+[Sun Jan 08 04:15:22 2017] [error] [client 203.133.168.231] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Jan 08 12:05:05 2017] [error] [client 157.55.39.55] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf
+[Sun Jan 08 12:23:37 2017] [error] [client 70.194.231.102] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-76x76-precomposed.png
+[Sun Jan 08 12:23:37 2017] [error] [client 70.194.231.102] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-76x76.png
+[Sun Jan 08 12:23:37 2017] [error] [client 70.194.231.102] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Jan 08 12:23:37 2017] [error] [client 70.194.231.102] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Jan 08 14:33:34 2017] [error] [client 2.29.112.205] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Jan 08 14:33:34 2017] [error] [client 2.29.112.205] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Jan 08 17:31:39 2017] [error] [client 38.100.21.65] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Jan 08 17:31:40 2017] [error] [client 38.100.21.65] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Sun Jan 08 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-01-06.gz
+[Sun Jan 08 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-01-07.gz
+[Sun Jan 08 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-01-08.gz
+[Sun Jan 08 18:33:05 2017] [error] [client 132.205.23.235] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Sun Jan 08 18:33:09 2017] [error] [client 132.205.23.235] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Sun Jan 08 18:33:14 2017] [error] [client 132.205.23.235] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:32:46 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Mon Jan 09 01:33:04 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:33:10 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:33:11 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:33:11 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:33:12 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:33:13 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:33:13 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:33:14 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:33:14 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:33:15 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:33:15 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:33:16 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:33:16 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:33:17 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:33:17 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:34:12 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:34:12 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:34:25 2017] [error] [client 218.241.161.50] File does not exist: /home/sooshie/secrepo.com/news
+[Mon Jan 09 01:34:34 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:34:34 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:34:35 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:34:36 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:34:36 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:34:37 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:35:24 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:35:25 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:35:26 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:35:26 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:22 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:23 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:23 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:24 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:24 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:26 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:27 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:27 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:28 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:28 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:30 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:30 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:31 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:32 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:32 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:33 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:33 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:34 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:34 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:35 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:35 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:36 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:36 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:37 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:37 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:38 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:38 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:39 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:36:40 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:36:40 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:37:02 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:37:02 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:37:03 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Mon Jan 09 01:37:04 2017] [error] [client 117.83.36.223] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/pe_static/
+[Mon Jan 09 01:40:55 2017] [error] [client 218.241.161.50] File does not exist: /home/sooshie/secrepo.com/news

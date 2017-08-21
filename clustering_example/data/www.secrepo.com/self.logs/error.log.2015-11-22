@@ -1,0 +1,29 @@
+[Sun Nov 22 02:37:19 2015] [error] [client 64.79.100.40] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data
+[Sun Nov 22 02:37:31 2015] [error] [client 64.79.100.40] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Sun Nov 22 08:52:38 2015] [error] [client 199.19.105.111] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sun Nov 22 08:52:38 2015] [error] [client 199.19.105.111] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Sun Nov 22 10:34:15 2015] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Nov 22 10:34:16 2015] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Nov 22 10:34:18 2015] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Nov 22 10:34:21 2015] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Nov 22 10:34:22 2015] [error] [client 69.30.211.2] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Nov 22 15:13:24 2015] [error] [client 64.124.203.75] File does not exist: /home/sooshie/secrepo.com/security-data-analysis, referer: http://temp.com
+[Sun Nov 22 15:29:29 2015] [error] [client 193.201.224.32] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data#
+[Sun Nov 22 16:54:05 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Nov 22 16:54:05 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 22 16:54:06 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Nov 22 16:54:06 2015] [error] [client 114.112.83.245] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 22 16:59:55 2015] [error] [client 193.201.224.32] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/data#
+[Sun Nov 22 17:09:50 2015] [error] [client 190.80.104.63] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Sun Nov 22 18:19:20 2015] [error] [client 69.30.213.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Nov 22 18:19:24 2015] [error] [client 69.30.213.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Nov 22 18:19:26 2015] [error] [client 69.30.213.202] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Nov 22 20:46:02 2015] [error] [client 208.58.66.194] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Nov 22 23:21:45 2015] [error] [client 64.187.237.169] File does not exist: /home/sooshie/secrepo.com/https:
+[Sun Nov 22 23:21:47 2015] [error] [client 64.187.237.169] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Nov 22 23:21:50 2015] [error] [client 64.187.237.169] File does not exist: /home/sooshie/secrepo.com/https:
+[Sun Nov 22 23:21:52 2015] [error] [client 64.187.237.169] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sun Nov 22 23:56:54 2015] [error] [client 107.168.140.38] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Mon Nov 23 00:37:39 2015] [error] [client 14.17.18.147] File does not exist: /home/sooshie/secrepo.com/html5shim.googlecode.com, referer: http://www.secrepo.com//html5shim.googlecode.com/svn/trunk/html5.js
+[Mon Nov 23 00:37:39 2015] [error] [client 14.17.18.147] File does not exist: /home/sooshie/secrepo.com/netdna.bootstrapcdn.com, referer: http://www.secrepo.com//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+[Mon Nov 23 00:37:39 2015] [error] [client 14.17.18.147] File does not exist: /home/sooshie/secrepo.com/ajax.googleapis.com, referer: http://www.secrepo.com//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js

@@ -1,0 +1,25 @@
+[Thu Nov 05 04:48:12 2015] [error] [client 84.151.24.64] File does not exist: /home/sooshie/secrepo.com/zeus, referer: http://www.secrepo.com/
+[Thu Nov 05 06:14:42 2015] [error] [client 199.116.169.254] File does not exist: /home/sooshie/secrepo.com/notify-Flag1-User_Notified
+[Thu Nov 05 07:27:48 2015] [error] [client 73.140.112.61] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-152x152-precomposed.png
+[Thu Nov 05 07:27:48 2015] [error] [client 73.140.112.61] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-152x152.png
+[Thu Nov 05 07:27:48 2015] [error] [client 73.140.112.61] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Nov 05 07:27:48 2015] [error] [client 73.140.112.61] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Nov 05 07:31:33 2015] [error] [client 178.63.86.11] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Nov 05 07:31:34 2015] [error] [client 178.63.86.11] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Nov 05 07:31:36 2015] [error] [client 178.63.86.11] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Thu Nov 05 07:31:37 2015] [error] [client 178.63.86.11] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu Nov 05 07:31:38 2015] [error] [client 178.63.86.11] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Thu Nov 05 12:56:03 2015] [error] [client 91.200.12.138] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Nov 05 13:14:53 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Nov 05 13:14:59 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Nov 05 13:17:34 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Nov 05 14:00:32 2015] [error] [client 27.155.107.87] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Thu Nov 05 16:39:29 2015] [error] [client 37.187.139.132] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "241"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%20-%202014.ipynb"] [unique_id "Vjv2wdBxoAQAAEHMkp0AAAAD"]
+[Thu Nov 05 16:41:15 2015] [error] [client 91.200.12.138] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Thu Nov 05 17:47:30 2015] [error] [client 117.21.176.66] File does not exist: /home/sooshie/secrepo.com/editor
+[Thu Nov 05 17:47:30 2015] [error] [client 117.21.176.66] File does not exist: /home/sooshie/secrepo.com/fckeditor
+[Thu Nov 05 17:47:30 2015] [error] [client 117.21.176.66] File does not exist: /home/sooshie/secrepo.com/editor
+[Thu Nov 05 17:47:30 2015] [error] [client 117.21.176.66] File does not exist: /home/sooshie/secrepo.com/admin
+[Thu Nov 05 17:47:30 2015] [error] [client 117.21.176.66] File does not exist: /home/sooshie/secrepo.com/manage
+[Thu Nov 05 17:50:31 2015] [error] [client 37.187.139.132] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "241"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%20-%202014.ipynb"] [unique_id "VjwHZ9BxoAQAAAtcGqQAAAAc"]
+[Fri Nov 06 00:08:58 2015] [error] [client 115.187.166.201] File does not exist: /home/sooshie/secrepo.com/data

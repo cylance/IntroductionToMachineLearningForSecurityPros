@@ -1,0 +1,16 @@
+[Fri Dec 09 10:29:07 2016] [error] [client 54.174.33.17] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Fri Dec 09 10:50:13 2016] [error] [client 203.133.171.30] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Fri Dec 09 12:08:24 2016] [error] [client 76.100.110.129] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Fri Dec 09 12:08:25 2016] [error] [client 76.100.110.129] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Dec 09 15:32:26 2016] [error] [client 104.131.69.226] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Fri Dec 09 17:57:54 2016] [error] [client 100.36.80.33] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-152x152-precomposed.png
+[Fri Dec 09 17:57:54 2016] [error] [client 100.36.80.33] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-152x152.png
+[Fri Dec 09 17:57:54 2016] [error] [client 100.36.80.33] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Dec 09 17:57:54 2016] [error] [client 100.36.80.33] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Fri Dec 09 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-07.gz
+[Fri Dec 09 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-08.gz
+[Fri Dec 09 18:30:03 2016] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-09.gz
+[Fri Dec 09 21:38:11 2016] [error] [client 77.75.78.161] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Fri Dec 09 22:04:50 2016] [error] [client 207.46.13.190] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Fri Dec 09 22:41:04 2016] [error] [client 220.181.108.166] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Dec 09 23:59:15 2016] [error] [client 49.195.21.82] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-114x114.png

@@ -1,0 +1,7 @@
+[Sat Sep 12 07:15:15 2015] [error] [client 77.75.77.11] File does not exist: /home/sooshie/secrepo.com/data
+[Sat Sep 12 07:53:13 2015] [error] [client 212.83.177.193] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Sep 12 18:11:56 2015] [error] [client 208.90.57.196] File does not exist: /home/sooshie/secrepo.com/zeus
+[Sat Sep 12 18:54:13 2015] [error] [client 24.230.181.31] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Sep 12 18:54:15 2015] [error] [client 24.230.181.31] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Sep 12 18:54:18 2015] [error] [client 24.230.181.31] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Sep 12 20:39:47 2015] [error] [client 104.251.93.178] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/

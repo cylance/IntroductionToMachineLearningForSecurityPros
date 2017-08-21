@@ -1,0 +1,16 @@
+[Sun Apr 05 02:44:30 2015] [error] [client 130.211.146.123] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%2520-%25202014.ipynb"] [unique_id "VSED-tBxoAQAAHe2SLMAAAAE"]
+[Sun Apr 05 03:10:36 2015] [error] [client 130.211.146.123] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%2520-%25202014.ipynb"] [unique_id "VSEKHNBxoAQAAAZ6CUUAAAAR"]
+[Sun Apr 05 03:28:49 2015] [error] [client 130.211.146.123] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^\\(\\) {" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "234"] [id "1990064"] [msg "CVE-2014-6271 - Bash Attack"] [hostname "www.secrepo.com"] [uri "/honeypot/BSidesDFW%2520-%25202014.ipynb"] [unique_id "VSEOYdBxoAQAAH7B0NgAAAAH"]
+[Sun Apr 05 05:30:52 2015] [error] [client 91.200.12.39] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun Apr 05 07:08:38 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Apr 05 07:08:47 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Apr 05 07:08:52 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Apr 05 07:09:04 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Apr 05 07:09:42 2015] [error] [client 69.64.41.236] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Apr 05 09:32:27 2015] [error] [client 78.110.160.179] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Sun Apr 05 10:49:55 2015] [error] [client 62.210.180.9] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/honeypot/Honeypot
+[Sun Apr 05 13:34:03 2015] [error] [client 104.130.161.115] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun Apr 05 13:50:48 2015] [error] [client 91.200.12.39] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb
+[Sun Apr 05 15:22:43 2015] [error] [client 62.210.180.9] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/honeypot/BSidesDFW
+[Sun Apr 05 16:05:57 2015] [error] [client 62.210.206.26] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Sun Apr 05 19:31:42 2015] [error] [client 91.200.12.27] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/honeypot/BSidesDFW

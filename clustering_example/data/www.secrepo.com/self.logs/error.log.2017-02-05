@@ -1,0 +1,24 @@
+[Sun Feb 05 02:39:54 2017] [error] [client 45.55.134.253] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Feb 05 05:52:12 2017] [error] [client 180.76.15.149] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Sun Feb 05 06:08:31 2017] [error] [client 62.210.181.123] ModSecurity: Access denied with code 418 (phase 2). Pattern match "(?:perl .*\\\\.pl(\\\\s|\\\\t)*\\\\;|\\\\;(\\\\s|\\\\t)*perl .*\\\\.pl|perl (?:xpl\\\\.pl|kut|viewde|httpd\\\\.txt)|\\\\./xkernel\\\\;|/kaiten\\\\.c|/mampus\\\\?&(?:cmd|command)|trojan\\\\.htm|/(?:r57|c99|c100)\\\\.(?:php|txt)|r57shell\\\\.(?:php|txt))" at REQUEST_URI. [file "/dh/apache2/template/etc/mod_sec2/50_asl_rootkits.conf"] [line "53"] [id "390804"] [rev "3"] [msg "Atomicorp.com - FREE UNSUPPORTED DELAYED FEED - WAF Rules: Possible Rootkit attack: Known Rootkit"] [data "/c99.php"] [severity "CRITICAL"] [hostname "www.secrepo.com"] [uri "/c99.php"] [unique_id "WJcx39BxoAQAAHlLbMMAAAAH"]
+[Sun Feb 05 06:16:06 2017] [error] [client 40.77.167.84] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf
+[Sun Feb 05 12:38:02 2017] [error] [client 86.141.253.219] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Feb 05 12:38:02 2017] [error] [client 86.141.253.219] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Feb 05 12:38:02 2017] [error] [client 86.141.253.219] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Feb 05 12:38:02 2017] [error] [client 86.141.253.219] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Feb 05 15:44:17 2017] [error] [client 115.178.73.2] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Feb 05 15:44:17 2017] [error] [client 115.178.73.2] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Feb 05 15:44:18 2017] [error] [client 115.178.73.2] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Feb 05 15:44:18 2017] [error] [client 115.178.73.2] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Feb 05 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-03.gz
+[Sun Feb 05 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-04.gz
+[Sun Feb 05 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-05.gz
+[Sun Feb 05 19:20:34 2017] [error] [client 52.90.146.42] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Sun Feb 05 19:24:39 2017] [error] [client 40.77.167.84] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Sun Feb 05 19:42:51 2017] [error] [client 50.161.77.4] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-114x114.png
+[Sun Feb 05 22:48:05 2017] [error] [client 112.27.198.131] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Sun Feb 05 22:49:21 2017] [error] [client 112.27.198.131] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Sun Feb 05 22:49:41 2017] [error] [client 112.27.198.131] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Sun Feb 05 22:51:12 2017] [error] [client 111.13.102.4] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Sun Feb 05 22:51:14 2017] [error] [client 111.13.102.7] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Sun Feb 05 22:51:16 2017] [error] [client 220.181.165.8] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip

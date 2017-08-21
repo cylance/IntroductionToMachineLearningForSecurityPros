@@ -1,0 +1,20 @@
+[Sun May 17 03:45:02 2015] [error] [client 146.0.42.58] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 17 03:45:05 2015] [error] [client 146.0.42.58] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 17 03:45:07 2015] [error] [client 146.0.42.58] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 17 03:45:09 2015] [error] [client 146.0.42.58] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun May 17 04:44:01 2015] [error] [client 198.27.82.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 17 04:44:07 2015] [error] [client 198.27.82.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 17 04:44:10 2015] [error] [client 198.27.82.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun May 17 04:44:13 2015] [error] [client 198.27.82.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun May 17 04:44:24 2015] [error] [client 198.27.82.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun May 17 05:25:05 2015] [error] [client 54.205.37.20] File does not exist: /home/sooshie/secrepo.com/data
+[Sun May 17 07:52:09 2015] [error] [client 119.134.251.140] File does not exist: /home/sooshie/secrepo.com/utility
+[Sun May 17 07:52:14 2015] [error] [client 119.134.251.140] File does not exist: /home/sooshie/secrepo.com/data
+[Sun May 17 07:56:43 2015] [error] [client 107.170.12.66] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun May 17 10:54:09 2015] [error] [client 123.182.143.222] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb/trackback/, referer: http://www.secrepo.com/honeypot/BSidesDFW - 2014.ipynb
+[Sun May 17 11:25:35 2015] [error] [client 5.9.202.135] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Sun May 17 11:25:36 2015] [error] [client 5.9.202.135] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Sun May 17 17:26:59 2015] [error] [client 166.88.124.217] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Sun May 17 17:27:00 2015] [error] [client 166.88.124.217] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Sun May 17 21:21:09 2015] [error] [client 71.176.122.34] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun May 17 22:42:16 2015] [error] [client 188.165.15.61] File does not exist: /home/sooshie/secrepo.com/data

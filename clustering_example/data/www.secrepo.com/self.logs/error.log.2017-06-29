@@ -1,0 +1,16 @@
+[Thu Jun 29 05:17:01 2017] [error] [client 45.55.80.78] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Jun 29 09:51:25 2017] [error] [client 31.59.183.64] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Jun 29 09:51:27 2017] [error] [client 31.59.183.64] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Jun 29 09:51:29 2017] [error] [client 31.59.183.64] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Jun 29 09:51:31 2017] [error] [client 31.59.183.64] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Jun 29 18:25:17 2017] [error] [client 91.210.147.118] File does not exist: /home/sooshie/secrepo.com/blog, referer: http://secrepo.com/blog/
+[Thu Jun 29 18:30:01 2017] [error] [client 142.54.183.226] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Jun 29 18:30:02 2017] [error] [client 142.54.183.226] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Jun 29 18:30:02 2017] [error] [client 142.54.183.226] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Jun 29 18:30:02 2017] [error] [client 142.54.183.226] File does not exist: /home/sooshie/secrepo.com/wp-content
+[Thu Jun 29 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-27.gz
+[Thu Jun 29 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-28.gz
+[Thu Jun 29 19:30:04 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-06-29.gz
+[Thu Jun 29 21:01:45 2017] [error] [client 216.244.86.114] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/plugins/wp-symposium/readme.txt
+[Thu Jun 29 23:00:39 2017] [error] [client 209.90.225.226] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://www.secrepo.com/wp-content/plugins/revslider/temp/update_extract/conf.php
+[Fri Jun 30 00:01:43 2017] [error] [client 85.93.91.84] File does not exist: /home/sooshie/secrepo.com/data

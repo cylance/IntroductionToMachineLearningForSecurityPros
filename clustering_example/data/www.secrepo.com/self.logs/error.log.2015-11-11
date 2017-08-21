@@ -1,0 +1,7 @@
+[Wed Nov 11 07:40:56 2015] [error] [client 217.69.133.243] File does not exist: /home/sooshie/secrepo.com/data
+[Wed Nov 11 09:24:15 2015] [error] [client 94.23.30.222] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Wed Nov 11 10:09:43 2015] [error] [client 192.99.39.235] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Wed Nov 11 10:26:12 2015] [error] [client 94.23.30.222] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Wed Nov 11 11:54:48 2015] [error] [client 94.96.115.142] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Wed Nov 11 11:55:01 2015] [error] [client 94.23.30.222] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Wed Nov 11 19:53:46 2015] [error] [client 104.236.232.46] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/

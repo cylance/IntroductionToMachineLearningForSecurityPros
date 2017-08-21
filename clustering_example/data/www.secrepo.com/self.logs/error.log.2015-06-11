@@ -1,0 +1,8 @@
+[Thu Jun 11 04:06:43 2015] [error] [client 54.147.4.25] File does not exist: /home/sooshie/secrepo.com/favicon.png
+[Thu Jun 11 10:01:46 2015] [error] [client 38.100.21.69] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Jun 11 10:01:46 2015] [error] [client 38.100.21.69] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW-2014.ipynb
+[Thu Jun 11 20:34:24 2015] [error] [client 89.47.17.209] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Thu Jun 11 20:34:33 2015] [error] [client 89.47.17.209] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Fri Jun 12 01:13:14 2015] [error] [client 160.176.222.154] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.realtor.com.tk/about/admin.xml
+[Fri Jun 12 01:43:33 2015] [error] [client 160.176.222.154] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.people.museum.nb/acciones/file.sh
+[Fri Jun 12 02:20:54 2015] [error] [client 178.162.205.24] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW+-+2014.ipynb, referer: http://www.secrepo.com/honeypot/BSidesDFW+-+2014.ipynb

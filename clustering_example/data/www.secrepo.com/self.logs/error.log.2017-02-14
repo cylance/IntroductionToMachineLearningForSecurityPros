@@ -1,0 +1,80 @@
+[Tue Feb 14 02:30:53 2017] [error] [client 180.153.214.198] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot-Howto.pdf, referer: http://www.secrepo.com/
+[Tue Feb 14 04:01:07 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 04:01:08 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 04:01:08 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 04:01:08 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487016068165
+[Tue Feb 14 04:01:08 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Tue Feb 14 04:05:44 2017] [error] [client 77.88.47.100] File does not exist: /home/sooshie/secrepo.com/data
+[Tue Feb 14 05:50:13 2017] [error] [client 91.200.12.147] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 05:50:13 2017] [error] [client 91.200.12.147] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 05:50:13 2017] [error] [client 91.200.12.147] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 05:50:13 2017] [error] [client 91.200.12.147] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487022624981
+[Tue Feb 14 05:50:13 2017] [error] [client 91.200.12.147] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Tue Feb 14 08:02:38 2017] [error] [client 49.98.167.110] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Tue Feb 14 08:02:38 2017] [error] [client 49.98.167.110] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Tue Feb 14 08:02:38 2017] [error] [client 49.98.167.110] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Feb 14 08:02:39 2017] [error] [client 49.98.167.110] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Feb 14 08:20:31 2017] [error] [client 130.85.95.120] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue Feb 14 08:20:31 2017] [error] [client 130.85.95.120] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Feb 14 09:20:56 2017] [error] [client 180.153.214.197] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot
+[Tue Feb 14 10:13:58 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 10:13:59 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 10:13:59 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 10:13:59 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487038439416
+[Tue Feb 14 10:13:59 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Tue Feb 14 10:21:20 2017] [error] [client 73.207.245.67] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 10:21:29 2017] [error] [client 73.207.245.67] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 10:21:36 2017] [error] [client 73.207.245.67] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 10:58:32 2017] [error] [client 88.187.68.184] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120-precomposed.png
+[Tue Feb 14 10:58:32 2017] [error] [client 88.187.68.184] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-120x120.png
+[Tue Feb 14 10:58:33 2017] [error] [client 88.187.68.184] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Feb 14 10:58:33 2017] [error] [client 88.187.68.184] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue Feb 14 12:38:36 2017] [error] [client 148.251.3.35] File does not exist: /home/sooshie/secrepo.com/sitemap.xml
+[Tue Feb 14 12:38:42 2017] [error] [client 148.251.3.35] File does not exist: /home/sooshie/secrepo.com/sitemap.xml
+[Tue Feb 14 12:54:59 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 12:54:59 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 12:55:00 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 12:55:00 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487048100310
+[Tue Feb 14 12:55:00 2017] [error] [client 91.200.12.2] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Tue Feb 14 15:24:18 2017] [error] [client 45.55.231.252] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 15:37:46 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 15:37:46 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 15:37:46 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 15:37:46 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487057864743
+[Tue Feb 14 15:37:47 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Tue Feb 14 17:25:57 2017] [error] [client 27.16.130.21] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 17:26:00 2017] [error] [client 27.16.130.21] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 17:26:05 2017] [error] [client 27.16.130.21] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 18:07:01 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 18:07:02 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 18:07:02 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 18:07:02 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487066820126
+[Tue Feb 14 18:07:02 2017] [error] [client 91.200.12.92] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Tue Feb 14 18:17:43 2017] [error] [client 220.248.44.62] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Tue Feb 14 18:17:57 2017] [error] [client 111.206.36.8] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.baidu.com/s?wd=www
+[Tue Feb 14 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-12.gz
+[Tue Feb 14 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-13.gz
+[Tue Feb 14 18:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-02-14.gz
+[Tue Feb 14 18:48:46 2017] [error] [client 119.61.11.226] File does not exist: /home/sooshie/secrepo.com/gen204, referer: http://www.secrepo.com/
+[Tue Feb 14 20:08:30 2017] [error] [client 180.153.211.190] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot-Howto.pdf
+[Tue Feb 14 21:55:49 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 21:55:50 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 21:55:50 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 21:55:50 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487080550241
+[Tue Feb 14 21:55:50 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Tue Feb 14 22:41:22 2017] [error] [client 50.131.144.20] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-01-22">e
+[Tue Feb 14 23:07:56 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/plus, referer: http://www.secrepo.com/plus/mytag_js.php
+[Tue Feb 14 23:07:56 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/utility, referer: http://www.secrepo.com/utility/convert/index.php?a=config&source=d7.2_x2.0
+[Tue Feb 14 23:07:56 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=Image&CurrentFolder=%2F
+[Tue Feb 14 23:07:56 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/shop, referer: http://www.secrepo.com/shop//fckeditor/editor/filemanager/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=14430306259051487084876409
+[Tue Feb 14 23:07:56 2017] [error] [client 91.200.12.135] File does not exist: /home/sooshie/secrepo.com/yp, referer: http://www.secrepo.com/yp/product.php?pagesize=${${@eval%28$_POST[-62]%29}}
+[Wed Feb 15 01:01:21 2017] [error] [client 82.31.90.100] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Feb 15 01:01:35 2017] [error] [client 82.31.90.100] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Feb 15 01:01:57 2017] [error] [client 82.31.90.100] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip
+[Wed Feb 15 01:03:29 2017] [error] [client 82.31.90.100] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Feb 15 01:03:34 2017] [error] [client 82.31.90.100] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Feb 15 01:03:38 2017] [error] [client 82.31.90.100] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Feb 15 01:03:42 2017] [error] [client 82.31.90.100] File does not exist: /home/sooshie/secrepo.com/pe_static/ap1.zip, referer: http://www.secrepo.com/
+[Wed Feb 15 01:32:45 2017] [error] [client 110.4.89.15] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Wed Feb 15 01:32:54 2017] [error] [client 110.4.89.15] File does not exist: /home/sooshie/secrepo.com/data
+[Wed Feb 15 02:06:50 2017] [error] [client 40.77.167.27] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf

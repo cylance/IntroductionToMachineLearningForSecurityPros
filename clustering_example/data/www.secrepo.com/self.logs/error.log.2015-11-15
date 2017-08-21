@@ -1,0 +1,9 @@
+[Sun Nov 15 03:34:56 2015] [error] [client 125.33.93.39] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Nov 15 03:34:58 2015] [error] [client 125.33.93.39] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Nov 15 03:35:02 2015] [error] [client 125.33.93.39] File does not exist: /home/sooshie/secrepo.com/data
+[Sun Nov 15 04:16:26 2015] [error] [client 171.43.253.77] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Nov 15 04:16:26 2015] [error] [client 171.43.253.77] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Nov 15 04:16:27 2015] [error] [client 171.43.253.77] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Nov 15 04:16:27 2015] [error] [client 171.43.253.77] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Nov 15 04:16:28 2015] [error] [client 171.43.253.77] File does not exist: /home/sooshie/secrepo.com/plus
+[Sun Nov 15 16:32:49 2015] [error] [client 49.196.11.118] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.blog.inurl.com.br.arpa.ru/FCKeditor/add.jsf

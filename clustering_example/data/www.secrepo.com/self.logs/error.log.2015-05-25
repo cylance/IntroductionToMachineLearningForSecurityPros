@@ -1,0 +1,22 @@
+[Mon May 25 05:48:05 2015] [error] [client 93.137.143.253] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Mon May 25 07:16:47 2015] [error] [client 173.242.113.188] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 07:16:49 2015] [error] [client 173.242.113.188] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 07:16:51 2015] [error] [client 173.242.113.188] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 07:16:56 2015] [error] [client 173.242.113.188] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon May 25 07:17:00 2015] [error] [client 173.242.113.188] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon May 25 12:33:06 2015] [error] [client 119.129.244.61] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW
+[Mon May 25 13:52:54 2015] [error] [client 192.126.154.125] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW, referer: http://www.secrepo.com/
+[Mon May 25 13:52:55 2015] [error] [client 192.126.154.125] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Mon May 25 14:26:10 2015] [error] [client 203.77.76.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 14:26:11 2015] [error] [client 203.77.76.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 14:26:14 2015] [error] [client 203.77.76.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 14:26:16 2015] [error] [client 203.77.76.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon May 25 14:26:18 2015] [error] [client 203.77.76.152] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon May 25 16:44:13 2015] [error] [client 23.94.140.49] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot, referer: http://www.secrepo.com/
+[Mon May 25 17:19:56 2015] [error] [client 93.219.114.155] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 18:43:09 2015] [error] [client 82.193.127.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 18:43:11 2015] [error] [client 82.193.127.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 18:43:13 2015] [error] [client 82.193.127.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon May 25 18:43:17 2015] [error] [client 82.193.127.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon May 25 18:43:20 2015] [error] [client 82.193.127.15] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon May 25 22:25:45 2015] [error] [client 104.255.68.191] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:

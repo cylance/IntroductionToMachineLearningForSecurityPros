@@ -1,0 +1,36 @@
+[Thu Aug 17 06:25:15 2017] [error] [client 122.172.115.43] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Thu Aug 17 07:04:28 2017] [error] [client 122.172.115.43] File does not exist: /home/sooshie/secrepo.com/browserconfig.xml
+[Thu Aug 17 08:09:05 2017] [error] [client 52.87.255.118] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Thu Aug 17 08:45:38 2017] [error] [client 171.11.0.88] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Aug 17 09:06:09 2017] [error] [client 64.102.249.8] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 17 09:06:09 2017] [error] [client 64.102.249.8] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 17 09:17:21 2017] [error] [client 171.11.0.88] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Aug 17 11:19:22 2017] [error] [client 110.171.226.67] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto., referer: http://www.secrepo.com/
+[Thu Aug 17 11:19:54 2017] [error] [client 216.100.88.229] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto., referer: http://www.secrepo.com/
+[Thu Aug 17 11:19:54 2017] [error] [client 216.100.88.229] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot - Howto., referer: http://www.secrepo.com/
+[Thu Aug 17 11:52:21 2017] [error] [client 62.210.101.170] File does not exist: /home/sooshie/secrepo.com/feed, referer: http://secrepo.com/feed
+[Thu Aug 17 11:52:21 2017] [error] [client 62.210.101.170] File does not exist: /home/sooshie/secrepo.com/rss, referer: http://secrepo.com/rss
+[Thu Aug 17 11:52:21 2017] [error] [client 62.210.101.170] File does not exist: /home/sooshie/secrepo.com/atom, referer: http://secrepo.com/atom
+[Thu Aug 17 11:52:21 2017] [error] [client 62.210.101.170] File does not exist: /home/sooshie/secrepo.com/.rss, referer: http://secrepo.com/.rss
+[Thu Aug 17 13:41:55 2017] [error] [client 185.26.92.74] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Aug 17 16:38:05 2017] [error] [client 94.200.175.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 17 16:38:05 2017] [error] [client 94.200.175.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 17 16:38:06 2017] [error] [client 94.200.175.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 17 16:38:07 2017] [error] [client 94.200.175.242] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 17 17:19:22 2017] [error] [client 54.209.231.248] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Thu Aug 17 17:52:04 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 17 17:52:05 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 17 17:52:05 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Thu Aug 17 17:52:05 2017] [error] [client 87.221.97.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Thu Aug 17 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-15.gz
+[Thu Aug 17 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-16.gz
+[Thu Aug 17 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-17.gz
+[Thu Aug 17 20:22:02 2017] [error] [client 40.77.167.62] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf
+[Thu Aug 17 21:20:36 2017] [error] [client 104.236.214.106] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Thu Aug 17 22:17:24 2017] [error] [client 69.58.178.58] File does not exist: /home/sooshie/secrepo.com/data
+[Thu Aug 17 22:47:29 2017] [error] [client 123.125.67.148] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Aug 18 01:06:31 2017] [error] [client 123.125.71.44] File does not exist: /home/sooshie/secrepo.com/data
+[Fri Aug 18 01:42:52 2017] [error] [client 119.28.61.153] ModSecurity: Access denied with code 418 (phase 1). Pattern match "eval\\\\(base64_decode\\\\(" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "75"] [id "1990012"] [msg "Obfuscated PHP eval() in User-Agent"] [hostname "secrepo.com"] [uri "/"] [unique_id "WZaojNBxoAQAACEyufsAAAAL"]
+[Fri Aug 18 01:42:53 2017] [error] [client 119.28.61.153] ModSecurity: Access denied with code 418 (phase 1). Pattern match "eval\\\\(base64_decode\\\\(" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "75"] [id "1990012"] [msg "Obfuscated PHP eval() in User-Agent"] [hostname "secrepo.com"] [uri "/"] [unique_id "WZaojdBxoAQAAEn64SkAAAAD"]
+[Fri Aug 18 02:09:22 2017] [error] [client 45.32.223.119] ModSecurity: Access denied with code 418 (phase 1). Pattern match "eval\\\\(base64_decode\\\\(" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "75"] [id "1990012"] [msg "Obfuscated PHP eval() in User-Agent"] [hostname "secrepo.com"] [uri "/"] [unique_id "WZauwtBxoAQAAENkkTkAAAAE"]
+[Fri Aug 18 02:09:22 2017] [error] [client 45.32.223.119] ModSecurity: Access denied with code 418 (phase 1). Pattern match "eval\\\\(base64_decode\\\\(" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "75"] [id "1990012"] [msg "Obfuscated PHP eval() in User-Agent"] [hostname "secrepo.com"] [uri "/"] [unique_id "WZauwtBxoAQAAC-a5IIAAAAJ"]

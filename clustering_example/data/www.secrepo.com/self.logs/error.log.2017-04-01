@@ -1,0 +1,12 @@
+[Sat Apr 01 06:28:19 2017] [error] [client 144.76.8.66] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Apr 01 06:28:21 2017] [error] [client 144.76.8.66] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Apr 01 06:28:22 2017] [error] [client 144.76.8.66] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Apr 01 06:28:24 2017] [error] [client 144.76.8.66] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Apr 01 16:57:58 2017] [error] [client 71.71.195.82] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Apr 01 16:57:58 2017] [error] [client 71.71.195.82] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Apr 01 16:57:59 2017] [error] [client 71.71.195.82] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Apr 01 16:57:59 2017] [error] [client 71.71.195.82] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Apr 01 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-03-30.gz
+[Sat Apr 01 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-03-31.gz
+[Sat Apr 01 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-04-01.gz
+[Sat Apr 01 21:22:46 2017] [error] [client 66.249.89.66] File does not exist: /home/sooshie/secrepo.com/google30776e34d2e57a82.html
