@@ -52,7 +52,7 @@ if __name__ == "__main__":
         print "Number of items in label {0}: {1}  ({2}%) (avg dist: {3}) (avg silhouette: {4})".format(
             label,
             n_vects.shape[0],
-            (100.0 * n_vects.shape[0]) / n_vects.shape[1],
+            (100.0 * n_vects.shape[0]) / vectors.shape[0],
             distances.mean(),
             scores.mean()
         )
