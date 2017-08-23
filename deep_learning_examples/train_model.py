@@ -12,7 +12,7 @@ from keras.layers.core import Dense
 from multiprocessing import Process as Thread, Queue
 from itertools import cycle, islice
 
-EPOCH_SIZE = 16384
+EPOCH_SIZE = 2048
 train_queue = Queue(maxsize=20)
 test_queue = Queue(maxsize=20)
 
